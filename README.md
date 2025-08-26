@@ -15,3 +15,25 @@
 - **Background**: Official site for the creative guild Unfold-ing, a collective solving world problems
   through art, consulting, game and service development.
 - **Release Date**: 2025-06-09
+
+## 4. Let There Be Light
+- **URL**: https://splendid-naiad-1166a5.netlify.app/
+- **Background**: Text-driven emergent simulation game.
+  Hackathon project: https://devpost.com/software/let-there-be-light-y3tak4
+- **Release Date**: 2025-06-13
+
+## 5. Deaf Webtoon Creator Assistant
+- **URL**: https://v0-3-250801-13390365319.us-west1.run.app/
+- **Background**: Creative assistant service for deaf webtoon artists. Developed through SK hynix
+  and Root Impact's "AI for Impact" program at the 2nd Korea Social Value Festa. Interviews and
+  mentoring with deaf creators surfaced pain points and informed tools to address them.
+- **Press Release**: https://www.popcornnews.net/news/articleView.html?idxno=91589
+- **Release Date**: 2025-08-01
+
+## 6. Image Pattern Extractor
+- **URL**: https://image-pattern-extractor-38778985419.us-west1.run.app/
+- **Background**: Visual pattern extraction service for urban images, built for personal art projects
+  and arts education programs. Upload city photos to capture and visualize hidden patterns and
+  visual elements using various algorithms.
+- **Example**: https://www.instagram.com/share/BAFu1aSsOW
+- **Release Date**: 2025-08-10
