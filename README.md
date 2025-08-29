@@ -37,3 +37,9 @@
   visual elements using various algorithms.
 - **Example**: https://www.instagram.com/share/BAFu1aSsOW
 - **Release Date**: 2025-08-10
+
+## 7. AI Hairstyle Makeover
+- **URL**: https://ai-hairstyle-makeover-38778985419.us-west1.run.app/
+- **Background**: Service that lets users upload an image and preview different hairstyles using the nanobanana model.
+- **Example**: https://www.instagram.com/share/_j5DuoIFk
+- **Release Date**: 2025-08-29
