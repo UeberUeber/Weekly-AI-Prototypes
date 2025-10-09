@@ -43,3 +43,8 @@
 - **Background**: Service that lets users upload an image and preview different hairstyles using the nanobanana model.
 - **Example**: https://www.instagram.com/share/_j5DuoIFk
 - **Release Date**: 2025-08-29
+
+## 8. AI Interactive Web Novel Service
+- **URL**: https://opal.withgoogle.com/?flow=drive:/1bC-R7y6wLzkodssBzqgady9qgJ1tyo9x&shared&mode=app
+- **Background**: Web service where users can freely interact within a novel universe to progress the story.
+- **Release Date**: 2025-10-09
