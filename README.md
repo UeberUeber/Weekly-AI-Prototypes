@@ -48,3 +48,9 @@
 - **URL**: https://opal.withgoogle.com/?flow=drive:/1bC-R7y6wLzkodssBzqgady9qgJ1tyo9x&shared&mode=app
 - **Background**: Web service where users can freely interact within a novel universe to progress the story.
 - **Release Date**: 2025-10-09
+
+## 9. Latent Canvas
+- **URL**: https://latent-canvas-mindmap-version-38778985419.us-west1.run.app
+- **Background**: Creative image generation and editing service inspired by latent space walking.
+- **Example**: https://www.linkedin.com/posts/ueberueber_ai-google-aistudio-activity-7386329427091210240-JB-z
+- **Release Date**: 2025-10-12
