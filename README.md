@@ -54,3 +54,9 @@
 - **Background**: Creative image generation and editing service inspired by latent space walking.
 - **Example**: https://www.linkedin.com/posts/ueberueber_ai-google-aistudio-activity-7386329427091210240-JB-z
 - **Release Date**: 2025-10-12
+
+## 10. Snake Game: The Vital Trail
+- **URL**: https://ai.studio/apps/drive/1N1FJFT24wAt9uydQ--JYU1uRLRz9LKgA
+- **Background**: Data abstraction experience built through the mechanics of a snake game.
+- **Example**: https://www.linkedin.com/posts/ueberueber_creative-ai-google-activity-7385566985423773696-USkZ
+- **Release Date**: 2025-10-19
