@@ -37,3 +37,26 @@
   visual elements using various algorithms.
 - **Example**: https://www.instagram.com/share/BAFu1aSsOW
 - **Release Date**: 2025-08-10
+
+## 7. AI Hairstyle Makeover
+- **URL**: https://ai-hairstyle-makeover-38778985419.us-west1.run.app/
+- **Background**: Service that lets users upload an image and preview different hairstyles using the nanobanana model.
+- **Example**: https://www.instagram.com/share/_j5DuoIFk
+- **Release Date**: 2025-08-29
+
+## 8. AI Interactive Web Novel Service
+- **URL**: https://opal.withgoogle.com/?flow=drive:/1bC-R7y6wLzkodssBzqgady9qgJ1tyo9x&shared&mode=app
+- **Background**: Web service where users can freely interact within a novel universe to progress the story.
+- **Release Date**: 2025-10-09
+
+## 9. Latent Canvas
+- **URL**: https://latent-canvas-mindmap-version-38778985419.us-west1.run.app
+- **Background**: Creative image generation and editing service inspired by latent space walking.
+- **Example**: https://www.linkedin.com/posts/ueberueber_ai-google-aistudio-activity-7386329427091210240-JB-z
+- **Release Date**: 2025-10-12
+
+## 10. Snake Game: The Vital Trail
+- **URL**: https://ai.studio/apps/drive/1N1FJFT24wAt9uydQ--JYU1uRLRz9LKgA
+- **Background**: Data abstraction experience built through the mechanics of a snake game.
+- **Example**: https://www.linkedin.com/posts/ueberueber_creative-ai-google-activity-7385566985423773696-USkZ
+- **Release Date**: 2025-10-19
