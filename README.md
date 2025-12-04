@@ -65,3 +65,8 @@
 - **URL**: https://emoji-kingdom-38778985419.us-west1.run.app/
 - **Background**: Kingdom-management game where players combine royal decrees to rule their realm.
 - **Release Date**: 2025-11-20
+
+## 12. **BPBM: Anonymous Arts Community**
+- **URL**: https://bpbm-f7986.web.app/
+- **Background**: Anonymous community platform for arts professionals to share candid stories, experiences, and discussions about their field.
+- **Release Date**: 2025-12-04
