@@ -70,3 +70,8 @@
 - **URL**: https://bpbm-f7986.web.app/
 - **Background**: Anonymous community platform for arts professionals to share candid stories, experiences, and discussions about their field.
 - **Release Date**: 2025-12-04
+
+## 13. **Paradise Art Lab Bio Art Workshop Archive**
+- **URL**: (TBD)
+- **Background**: Archive page documenting ideas, thoughts, and experiments from the Paradise Art Lab Bio Art Workshop held from September 4–25, 2025.
+- **Release Date**: 2025-12-09
