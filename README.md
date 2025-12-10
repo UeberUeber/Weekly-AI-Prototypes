@@ -72,6 +72,6 @@
 - **Release Date**: 2025-12-04
 
 ## 13. **Paradise Art Lab Bio Art Workshop Archive**
-- **URL**: (TBD)
+- **URL**: https://bioart-archive.web.app/
 - **Background**: Archive page documenting ideas, thoughts, and experiments from the Paradise Art Lab Bio Art Workshop held from September 4–25, 2025.
 - **Release Date**: 2025-12-09
