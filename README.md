@@ -75,3 +75,8 @@
 - **URL**: https://bioart-archive.web.app/
 - **Background**: Archive page documenting ideas, thoughts, and experiments from the Paradise Art Lab Bio Art Workshop held from September 4–25, 2025.
 - **Release Date**: 2025-12-09
+
+## 14. **Adobe Stock Generator**
+- **URL**: https://github.com/UeberUeber/adobe-stock-generator
+- **Background**: AI-powered image generation and management dashboard designed for the Google Antigravity workflow. Automates the full pipeline from prompt optimization and image generation to 4K upscaling (Real-ESRGAN) and Adobe Stock-compliant metadata/CSV generation.
+- **Release Date**: 2025-12-12
