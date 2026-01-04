@@ -90,3 +90,14 @@
 - **URL**: https://type-raid.web.app/
 - **Background**: Free online typing practice game.
 - **Release Date**: 2025-12-15
+
+## 17. **[ART] Wave Sculptor**
+- **URL**: https://aistudio.google.com/apps/drive/1GVmDrXe9owVAXPd0WwfpVAsHg3NmiJdz?fullscreenApplet=true
+- **Background**: A web-based sequencer service where users can sculpt sound waveforms by drawing with a mouse and use these custom samples to create music.
+- **Example**: Play Video https://www.linkedin.com/posts/ueberueber_ai-google-google-activity-7409108835468251137-QmYQ
+- **Release Date**: 2025-12-23
+
+## 18. **[SERVICE] AI Recipe Recommender**
+- **URL**: https://ai.studio/apps/drive/1_yz0qtowLQclXRRhGG8XPDzqTD7K16uO?fullscreenApplet=true
+- **Background**: A recipe recommendation service where users pick ingredients from their fridge to get instant recipe ideas. Inspired by 'Chef & My Fridge' and 'Culinary Class Wars 2'.
+- **Release Date**: 2026-01-04
