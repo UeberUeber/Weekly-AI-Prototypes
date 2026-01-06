@@ -101,3 +101,8 @@
 - **URL**: https://ai.studio/apps/drive/1_yz0qtowLQclXRRhGG8XPDzqTD7K16uO?fullscreenApplet=true
 - **Background**: A recipe recommendation service where users pick ingredients from their fridge to get instant recipe ideas. Inspired by 'Chef & My Fridge' and 'Culinary Class Wars 2'.
 - **Release Date**: 2026-01-04
+
+## 19. **[SERVICE] Antigravity Auto-Accept**
+- **URL**: https://github.com/UeberUeber/Antigravity-Auto-Accept
+- **Background**: VS Code extension for Google Antigravity that automatically accepts approval prompts every 500ms, eliminating repetitive manual clicks during AI-assisted development.
+- **Release Date**: 2026-01-05
