@@ -106,3 +106,8 @@
 - **URL**: https://github.com/UeberUeber/Antigravity-Auto-Accept
 - **Background**: VS Code extension for Google Antigravity that automatically accepts approval prompts every 500ms, eliminating repetitive manual clicks during AI-assisted development.
 - **Release Date**: 2026-01-05
+
+## 20. **[SERVICE] Daily Stock Wiki**
+- **URL**: https://daily-stock-wiki.web.app/
+- **Background**: A stock wiki service that generates daily reports based on collected stock news and reports. It provides analysis of domestic and international market conditions and stocks.
+- **Release Date**: 2026-01-07
