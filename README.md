@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 22. **[GAME] AI NPC Agent**
+- **URL**: https://github.com/UeberUeber/ai-npc-agent-gemini
+- **Background**: Autonomous NPC simulation inspired by Stanford's "Generative Agents: Interactive Simulacra of Human Behavior" paper. Each NPC has unique personality, memory, and schedule, enabling natural conversations with players. Implements and extends core mechanisms from the paper including memory stream-based retrieval, reflection, planning, and emotion inference. Additional features include auto-wake for sleeping NPCs, schedule overrun detection during conversations, dynamic replanning after 30+ minute dialogues, and a Thought memory type for inner reasoning. Requires Gemini API key registration to run in browser.
+- **Tech Stack**: Claude Code
+- **Release Date**: 2026-01-18
+
 ## 21. **[GAME] Finally Awake**
 - **URL**: https://finally-awake.web.app/
 - **Background**: A fantasy roguelike game where players receive random combinations of physical attacks, special actions, magic, and items to defeat endless waves of enemies.
