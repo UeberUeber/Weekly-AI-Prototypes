@@ -2,7 +2,7 @@
 ## 21. **[GAME] Finally Awake**
 - **URL**: https://finally-awake.web.app/
 - **Background**: A fantasy roguelike game where players receive random combinations of physical attacks, special actions, magic, and items to defeat endless waves of enemies.
-- **Tech Stack**: Claude Code
+- **Tech Stack**: Claude Code, Firebase
 - **Release Date**: 2026-01-17
 
 ## 20. **[SERVICE] Daily Stock Wiki**
