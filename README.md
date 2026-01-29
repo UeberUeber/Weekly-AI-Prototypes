@@ -1,4 +1,16 @@
 # Weekly AI Prototypes
+## 25. **[SERVICE] spam18call**
+- **URL**: https://spam18call.web.app/
+- **Background**: A service for reporting and checking spam phone numbers.
+- **Tech Stack**: Claude Code, Firebase
+- **Release Date**: 2026-01-28
+
+## 24. **[SERVICE] Agora: The Wisdom Square**
+- **URL**: https://github.com/UeberUeber/ueber-skills
+- **Background**: A Claude Code skill that summons historical figures to debate your problem from diverse perspectives. Uses dialectical discussion structure (Thesis → Antithesis → Metanoia) to challenge your thinking with opposing viewpoints.
+- **Tech Stack**: Claude Code
+- **Release Date**: 2026-01-23
+
 ## 23. **[SERVICE] AI Jobs**
 - **URL**: https://ai-job-s.web.app/
 - **Background**: A job board service that aggregates AI-related job postings from Korea and abroad.
