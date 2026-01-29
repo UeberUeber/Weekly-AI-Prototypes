@@ -354,7 +354,7 @@
         // Create datasets for each individual project as separate stacked layers
         function buildDatasets() {
             const datasets = [];
-            const maxPerMonth = 6; // Maximum projects in any month
+            const maxPerMonth = 8; // Maximum projects in any month
 
             for (let layer = 0; layer < maxPerMonth; layer++) {
                 // For each layer, get the nth project of each month (sorted by category)
@@ -436,7 +436,7 @@
                             color: 'rgba(255, 255, 255, 0.7)',
                             stepSize: 1
                         },
-                        max: 7
+                        max: 9
                     }
                 }
             }
