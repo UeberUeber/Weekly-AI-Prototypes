@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 26. **[SERVICE] Zoodiac: Your Guardian Spirit**
+- **URL**: https://zoodiac.web.app/
+- **Background**: A personalized guardian spirit generator that combines Western zodiac signs, Chinese zodiac animals, and the Five Elements (Wood, Fire, Earth, Metal, Water). Enter your birthdate and personality test answers to receive an AI-generated guardian spirit with unique stats, skills, and a shareable card.
+- **Tech Stack**: Claude Code, Firebase
+- **Release Date**: 2026-01-31
+
 ## 25. **[SERVICE] spam18call**
 - **URL**: https://spam18call.web.app/
 - **Background**: A service for reporting and checking spam phone numbers.
