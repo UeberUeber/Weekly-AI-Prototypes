@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 27. **[SERVICE] donot.die: Longevity Community**
+- **URL**: https://donot-die.web.app/
+- **Background**: A community platform for longevity enthusiasts to share and discuss scientific research on aging and health. Features DOI auto-recognition for academic papers, voting system, multi-language support (EN/KR), and anonymous posting.
+- **Tech Stack**: Claude Code, Firebase
+- **Release Date**: 2026-01-31
+
 ## 26. **[SERVICE] Zoodiac: Your Guardian Spirit**
 - **URL**: https://zoodiac.web.app/
 - **Background**: A personalized guardian spirit generator that combines Western zodiac signs, Chinese zodiac animals, and the Five Elements (Wood, Fire, Earth, Metal, Water). Enter your birthdate and personality test answers to receive an AI-generated guardian spirit with unique stats, skills, and a shareable card.
