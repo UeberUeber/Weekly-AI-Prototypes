@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 28. **[SERVICE] I Ching: Your Path Through the Book of Changes**
+- **URL**: https://i-ching-i.web.app/
+- **Background**: A divination service based on the ancient I Ching. Interprets the flow of the current moment and the direction ahead using classical I Ching principles.
+- **Tech Stack**: Claude Code, Firebase
+- **Release Date**: 2026-02-04
+
 ## 27. **[SERVICE] donot.die: Longevity Community**
 - **URL**: https://donot-die.web.app/
 - **Background**: A community platform for longevity enthusiasts to share and discuss scientific research on aging and health. Features DOI auto-recognition for academic papers, voting system, multi-language support (EN/KR), and anonymous posting.
