@@ -54,7 +54,7 @@
 - **Release Date**: 2026-01-17
 
 ## 20. **[SERVICE] Daily Stock Wiki**
-- **URL**: https://daily-stock-wiki.web.app/
+- **URL**: https://daily-stock-wiki.com/
 - **Background**: A stock wiki service that generates daily reports based on collected stock news and reports. It provides analysis of domestic and international market conditions and stocks.
 - **Tech Stack**: Google Antigravity, Firebase
 - **Release Date**: 2026-01-07
