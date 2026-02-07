@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 29. **[SERVICE] InflMatch: AI Influencer Matching**
+- **URL**: https://inflmatch.web.app/
+- **Background**: An AI-based influencer matching service that connects brands with influencers who have relevant advertising experience. Provides objective performance data including engagement rates and ad history, and delivers customized reports with performance predictions.
+- **Tech Stack**: Claude Code, Codex, Firebase
+- **Release Date**: 2026-02-07
+
 ## 28. **[SERVICE] I Ching: Your Path Through the Book of Changes**
 - **URL**: https://i-ching-i.web.app/
 - **Background**: A divination service based on the ancient I Ching. Interprets the flow of the current moment and the direction ahead using classical I Ching principles.
