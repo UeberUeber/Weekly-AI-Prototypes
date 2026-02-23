@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 30. **[SERVICE] Playlist City: Your Music Builds a City**
+- **URL**: https://playlist-city.web.app/
+- **Background**: A web service where users share YouTube links of their favorite music to build playlists, and the city grows and evolves based on the music. Each song creates a unique district based on its genre, visualizing your playlist as an interactive cityscape.
+- **Tech Stack**: Claude Code, Codex, Firebase
+- **Release Date**: 2026-02-08
+
 ## 29. **[SERVICE] InflMatch: AI Influencer Matching**
 - **URL**: https://inflmatch.web.app/
 - **Background**: An AI-based influencer matching service that connects brands with influencers who have relevant advertising experience. Provides objective performance data including engagement rates and ad history, and delivers customized reports with performance predictions.
