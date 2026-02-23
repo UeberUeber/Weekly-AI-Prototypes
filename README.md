@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 31. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
+- **URL**: https://github.com/UeberUeber/open-overmind
+- **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms — persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes) — enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
+- **Tech Stack**: Claude Code, Codex
+- **Release Date**: 2026-02-22
+
 ## 30. **[SERVICE] Playlist City: Your Music Builds a City**
 - **URL**: https://playlist-city.web.app/
 - **Background**: A web service where users share YouTube links of their favorite music to build playlists, and the city grows and evolves based on the music. Each song creates a unique district based on its genre, visualizing your playlist as an interactive cityscape.
