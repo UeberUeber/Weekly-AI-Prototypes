@@ -1,4 +1,16 @@
 # Weekly AI Prototypes
+## 33. **[ART] New Art Lab: Web-Based Art Experiment Archive**
+- **URL**: https://new-art-lab.web.app/
+- **Background**: An archiving platform for web-based art experiments. Collects and presents experimental art projects exploring the intersection of technology and artistic expression.
+- **Tech Stack**: Claude Code, Firebase
+- **Release Date**: 2026-02-24
+
+## 32. **[ART] Seoul Sound Topography**
+- **URL**: https://new-art-lab.web.app/seoul-sound-topography/
+- **Background**: What if we could revisit Seoul's soundscape in a different way? A web-based experimental art piece using real daytime noise data from Seongsu, Sinsa, City Hall, and Sinchon districts. YouTube videos matching each area and time are collected, and their audio levels shift continuously in response to changes in noise levels.
+- **Tech Stack**: Claude Code, Codex
+- **Release Date**: 2026-02-15
+
 ## 31. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
 - **URL**: https://github.com/UeberUeber/open-overmind
 - **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms — persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes) — enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
