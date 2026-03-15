@@ -1,9 +1,15 @@
 # Weekly AI Prototypes
-## 34. **[SERVICE] Airbnb Revenue Analyzer (Chrome Extension)**
+## 35. **[SERVICE] Airbnb Revenue Analyzer (Chrome Extension)**
 - **URL**: https://chromewebstore.google.com/detail/airbnb-revenue-analyzer/ekajghfanloeigckfhdpfbpdhcjfkico
 - **Background**: A Chrome extension that analyzes Airbnb listing revenue and performance data. Helps hosts and investors evaluate potential earnings by providing revenue estimates and market insights directly within the browser.
 - **Tech Stack**: Claude Code, Codex
 - **Release Date**: 2026-03-15
+
+## 34. **[SERVICE] Job Crafting: AI Career Manager**
+- **URL**: https://job-craft-ing.web.app/
+- **Background**: An AI-powered career management service. Users upload their career history, and when they enter a target job description, the AI analyzes and matches relevant experience, skills, and competency models to the role, enabling deeper, more tailored resume writing.
+- **Tech Stack**: Claude Code, Codex, Firebase
+- **Release Date**: 2026-03-08
 
 ## 33. **[ART] New Art Lab: Web-Based Art Experiment Archive**
 - **URL**: https://new-art-lab.web.app/
@@ -19,7 +25,7 @@
 
 ## 31. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
 - **URL**: https://github.com/UeberUeber/open-overmind
-- **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms — persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes) — enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
+- **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms: persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes), enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
 - **Tech Stack**: Claude Code, Codex
 - **Release Date**: 2026-02-22
 
