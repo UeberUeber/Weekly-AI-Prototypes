@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 34. **[SERVICE] Airbnb Revenue Analyzer (Chrome Extension)**
+- **URL**: https://chromewebstore.google.com/detail/airbnb-revenue-analyzer/ekajghfanloeigckfhdpfbpdhcjfkico
+- **Background**: A Chrome extension that analyzes Airbnb listing revenue and performance data. Helps hosts and investors evaluate potential earnings by providing revenue estimates and market insights directly within the browser.
+- **Tech Stack**: Claude Code, Codex
+- **Release Date**: 2026-03-15
+
 ## 33. **[ART] New Art Lab: Web-Based Art Experiment Archive**
 - **URL**: https://new-art-lab.web.app/
 - **Background**: An archiving platform for web-based art experiments. Collects and presents experimental art projects exploring the intersection of technology and artistic expression.
