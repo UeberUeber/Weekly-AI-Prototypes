@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 36. **[SERVICE] Adobe Stock AI Checkbox Auto-Check (Chrome Extension)**
+- **URL**: https://github.com/UeberUeber/adobe-stock-ai-checkbox
+- **Background**: A Chrome extension that automates AI-related disclosure checkboxes on Adobe Stock's contributor upload platform. Clicks through all uploaded image tiles, checks the required "Generated with generative AI tools" and "People and places are fictional" boxes, and skips already-marked images, all with a single button click.
+- **Tech Stack**: Claude Code
+- **Release Date**: 2026-04-04
+
 ## 35. **[SERVICE] Airbnb Revenue Analyzer (Chrome Extension)**
 - **URL**: https://chromewebstore.google.com/detail/airbnb-revenue-analyzer/ekajghfanloeigckfhdpfbpdhcjfkico
 - **Background**: A Chrome extension that analyzes Airbnb listing revenue and performance data. Helps hosts and investors evaluate potential earnings by providing revenue estimates and market insights directly within the browser.
