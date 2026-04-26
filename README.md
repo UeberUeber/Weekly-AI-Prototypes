@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 37. **[GAME] Do-Pamine**
+- **URL**: https://ueber.itch.io/do-pamine
+- **Background**: A one-tap arcade prototype exploring game-feel psychology — anticipation, variable rewards, and player agency. Players break bricks, collect orbs, upgrade skills, and gamble for risky payouts via roulette outcomes and run-altering relics across a 100-stage progression.
+- **Tech Stack**: Claude Code, Codex, Phaser
+- **Release Date**: 2026-04-26
+
 ## 36. **[SERVICE] Adobe Stock AI Checkbox Auto-Check (Chrome Extension)**
 - **URL**: https://github.com/UeberUeber/adobe-stock-ai-checkbox
 - **Background**: A Chrome extension that automates AI-related disclosure checkboxes on Adobe Stock's contributor upload platform. Clicks through all uploaded image tiles, checks the required "Generated with generative AI tools" and "People and places are fictional" boxes, and skips already-marked images, all with a single button click.
