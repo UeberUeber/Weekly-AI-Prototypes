@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 38. **[GAME] My Little Squid**
+- **URL**: https://ueber.itch.io/my-little-squid
+- **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
+- **Tech Stack**: Codex
+- **Release Date**: 2026-07-13
+
 ## 37. **[GAME] Do-Pamine**
 - **URL**: https://ueber.itch.io/do-pamine
 - **Background**: A one-tap arcade prototype exploring game-feel psychology — anticipation, variable rewards, and player agency. Players break bricks, collect orbs, upgrade skills, and gamble for risky payouts via roulette outcomes and run-altering relics across a 100-stage progression.
