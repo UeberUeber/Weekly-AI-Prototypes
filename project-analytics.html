@@ -245,15 +245,15 @@
 
         <div class="stats-grid">
             <div class="stat-card total">
-                <div class="stat-number">38</div>
+                <div class="stat-number">40</div>
                 <div class="stat-label">Total Projects</div>
             </div>
             <div class="stat-card game">
-                <div class="stat-number">9</div>
+                <div class="stat-number">10</div>
                 <div class="stat-label">🎮 Games</div>
             </div>
             <div class="stat-card service">
-                <div class="stat-number">23</div>
+                <div class="stat-number">24</div>
                 <div class="stat-label">⚙️ Services</div>
             </div>
             <div class="stat-card art">
@@ -351,11 +351,13 @@
             { id: 35, name: "Airbnb Revenue Analyzer (Chrome Extension)", category: "SERVICE", date: "2026-03-15", month: "2026-03" },
             { id: 36, name: "Adobe Stock AI Checkbox Auto-Check (Chrome Extension)", category: "SERVICE", date: "2026-04-04", month: "2026-04" },
             { id: 37, name: "Do-Pamine", category: "GAME", date: "2026-04-26", month: "2026-04" },
-            { id: 38, name: "My Little Squid", category: "GAME", date: "2026-07-13", month: "2026-07" }
+            { id: 38, name: "Korea Personas Match", category: "SERVICE", date: "2026-05-03", month: "2026-05" },
+            { id: 39, name: "My Little Squid", category: "GAME", date: "2026-07-13", month: "2026-07" },
+            { id: 40, name: "Slime Choir", category: "GAME", date: "2026-07-31", month: "2026-07" }
         ];
 
-        const months = ['2025-05', '2025-06', '2025-08', '2025-10', '2025-11', '2025-12', '2026-01', '2026-02', '2026-03', '2026-04', '2026-07'];
-        const monthLabels = ['May', 'Jun', 'Aug', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'Jul'];
+        const months = ['2025-05', '2025-06', '2025-08', '2025-10', '2025-11', '2025-12', '2026-01', '2026-02', '2026-03', '2026-04', '2026-05', '2026-07'];
+        const monthLabels = ['May', 'Jun', 'Aug', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jul'];
 
         // Build individual stacked datasets - each project is its own dataset layer
         const colors = {
@@ -462,7 +464,7 @@
             data: {
                 labels: ['GAME', 'SERVICE', 'ART'],
                 datasets: [{
-                    data: [9, 23, 6],
+                    data: [10, 24, 6],
                     backgroundColor: [
                         'rgba(255, 107, 107, 0.8)',
                         'rgba(78, 205, 196, 0.8)',

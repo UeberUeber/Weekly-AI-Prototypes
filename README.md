@@ -1,9 +1,22 @@
 # Weekly AI Prototypes
-## 38. **[GAME] My Little Squid**
+## 40. **[GAME] Slime Choir**
+- **URL**: https://ueber.itch.io/slime-choir
+- **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
+- **Tech Stack**: Codex, Three.js
+- **Release Date**: 2026-07-31
+
+## 39. **[GAME] My Little Squid**
 - **URL**: https://ueber.itch.io/my-little-squid
 - **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
 - **Tech Stack**: Codex
 - **Release Date**: 2026-07-13
+
+## 38. **[SERVICE] Korea Personas Match**
+- **URL**: https://korea-personas-match.web.app/
+- **Background**: A persona-matching service that estimates how many people in Korea resemble the user based on a short survey. It first narrows one million synthetic Korean personas using structured conditions, then uses AI to evaluate preferences and free-text responses, returning the closest persona matches and an experimental population estimate.
+- **Dataset**: [NVIDIA Nemotron-Personas-Korea](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea), generated from Korean public statistics and survey sources including KOSIS, the Supreme Court of Korea, the National Health Insurance Service, and the Korea Food Consumption Behavior Survey.
+- **Tech Stack**: Codex, Firebase
+- **Release Date**: 2026-05-03
 
 ## 37. **[GAME] Do-Pamine**
 - **URL**: https://ueber.itch.io/do-pamine
