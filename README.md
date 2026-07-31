@@ -1,9 +1,15 @@
 # Weekly AI Prototypes
-## 40. **[GAME] Slime Choir**
+## 41. **[GAME] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir
 - **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
 - **Tech Stack**: Codex, Three.js
 - **Release Date**: 2026-07-31
+
+## 40. **[ART] WebGL Sky Simulator**
+- **URL**: https://www.instagram.com/reel/DbBZACVJ-0Q/
+- **Background**: A WebGL-based visual experiment that simulates the sky and atmospheric changes through real-time graphics, exploring how light, color, and movement can create an evolving digital skyscape.
+- **Tech Stack**: WebGL
+- **Release Date**: 2026-07-20
 
 ## 39. **[GAME] My Little Squid**
 - **URL**: https://ueber.itch.io/my-little-squid
