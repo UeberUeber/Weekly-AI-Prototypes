@@ -1,4 +1,23 @@
 # Weekly AI Prototypes
+
+**English** | [한국어](README.ko.md)
+
+## 44. **[ART] One Path (하나의 길)**
+- **URL**: https://youtu.be/SvzUpN7c8OA
+- **Background**: This video work begins with the recognition that people can inhabit the same city while perceiving the world through different senses. Focusing on Yeouido and the National Assembly as a symbolic axis of Yeongdeungpo, it examines how images of law and politics shape a shared sense of community while also producing feelings of division. Using images and sounds from Yeongdeungpo, Yeouido, and the National Assembly, the work explores a sensory landscape where integration and fragmentation coexist.
+- **Exhibition**: Submitted to the Yeongdeungpo Cultural Foundation’s [2026 Contemporary Art Planning Exhibition](https://www.ydpcf.or.kr/postview.do?bid=1&pid=2573), themed “Onsaemiro: Reconfiguring Community and Shared Sensibility.”
+- **Creative Process**: AI was used to develop workflow automation and custom creative tools that supported the production of the video.
+- **Tech Stack**: Codex
+- **Release Date**: 2026-07-10
+
+## 43. **[ART] Our Jubilee Ist Unverhemmet (우리의 환희는 거칠 것이 없어라)**
+- **URL**: https://youtu.be/sIYhNCj0mw8
+- **Background**: Beginning with the idea of a “cultural peddler” (munhwa bobusang), this video work asks where such a traveler comes from, where they must go, and what they should carry along the way. Through this imagined journey, it examines what contemporary Korean culture is built upon and what lies beneath its foundations.
+- **Recognition**: Selected as a finalist in the 2026 Nam June Paik Cultural Foundation Media Art Competition.
+- **Creative Process**: AI was used to develop workflow automation and custom creative tools that supported the production of the video.
+- **Tech Stack**: Codex
+- **Release Date**: 2026-06-30
+
 ## 42. **[GAME] Wiggle Pop**
 - **URL**: https://ueber.itch.io/wiggle-pop
 - **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
