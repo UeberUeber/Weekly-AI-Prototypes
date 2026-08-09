@@ -1,4 +1,10 @@
 # Weekly AI Prototypes
+## 42. **[GAME] Wiggle Pop**
+- **URL**: https://ueber.itch.io/wiggle-pop
+- **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
+- **Tech Stack**: Claude Code, Codex, HTML5 Canvas, JavaScript
+- **Release Date**: 2026-08-07
+
 ## 41. **[GAME] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir
 - **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
