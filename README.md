@@ -2,7 +2,31 @@
 
 **English** | [한국어](README.ko.md)
 
-## 44. **[ART] One Path (하나의 길)**
+## 44. **[GAME] Wiggle Pop**
+- **URL**: https://ueber.itch.io/wiggle-pop
+- **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
+- **Tech Stack**: Claude Code, Codex, HTML5 Canvas, JavaScript
+- **Release Date**: 2026-08-07
+
+## 43. **[GAME] Slime Choir**
+- **URL**: https://ueber.itch.io/slime-choir
+- **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
+- **Tech Stack**: Codex, Three.js
+- **Release Date**: 2026-07-31
+
+## 42. **[ART] WebGL Sky Simulator**
+- **URL**: https://www.instagram.com/reel/DbBZACVJ-0Q/
+- **Background**: A WebGL-based visual experiment that simulates the sky and atmospheric changes through real-time graphics, exploring how light, color, and movement can create an evolving digital skyscape.
+- **Tech Stack**: WebGL
+- **Release Date**: 2026-07-20
+
+## 41. **[GAME] My Little Squid**
+- **URL**: https://ueber.itch.io/my-little-squid
+- **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
+- **Tech Stack**: Codex
+- **Release Date**: 2026-07-13
+
+## 40. **[ART] One Path (하나의 길)**
 - **URL**: https://youtu.be/SvzUpN7c8OA
 - **Background**: This video work begins with the recognition that people can inhabit the same city while perceiving the world through different senses. Focusing on Yeouido and the National Assembly as a symbolic axis of Yeongdeungpo, it examines how images of law and politics shape a shared sense of community while also producing feelings of division. Using images and sounds from Yeongdeungpo, Yeouido, and the National Assembly, the work explores a sensory landscape where integration and fragmentation coexist.
 - **Exhibition**: Submitted to the Yeongdeungpo Cultural Foundation’s [2026 Contemporary Art Planning Exhibition](https://www.ydpcf.or.kr/postview.do?bid=1&pid=2573), themed “Onsaemiro: Reconfiguring Community and Shared Sensibility.”
@@ -10,37 +34,13 @@
 - **Tech Stack**: Codex
 - **Release Date**: 2026-07-10
 
-## 43. **[ART] Our Jubilee Ist Unverhemmet (우리의 환희는 거칠 것이 없어라)**
+## 39. **[ART] Our Jubilee Ist Unverhemmet (우리의 환희는 거칠 것이 없어라)**
 - **URL**: https://youtu.be/sIYhNCj0mw8
 - **Background**: Beginning with the idea of a “cultural peddler” (munhwa bobusang), this video work asks where such a traveler comes from, where they must go, and what they should carry along the way. Through this imagined journey, it examines what contemporary Korean culture is built upon and what lies beneath its foundations.
 - **Recognition**: Selected as a finalist in the 2026 Nam June Paik Cultural Foundation Media Art Competition.
 - **Creative Process**: AI was used to develop workflow automation and custom creative tools that supported the production of the video.
 - **Tech Stack**: Codex
 - **Release Date**: 2026-06-30
-
-## 42. **[GAME] Wiggle Pop**
-- **URL**: https://ueber.itch.io/wiggle-pop
-- **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
-- **Tech Stack**: Claude Code, Codex, HTML5 Canvas, JavaScript
-- **Release Date**: 2026-08-07
-
-## 41. **[GAME] Slime Choir**
-- **URL**: https://ueber.itch.io/slime-choir
-- **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
-- **Tech Stack**: Codex, Three.js
-- **Release Date**: 2026-07-31
-
-## 40. **[ART] WebGL Sky Simulator**
-- **URL**: https://www.instagram.com/reel/DbBZACVJ-0Q/
-- **Background**: A WebGL-based visual experiment that simulates the sky and atmospheric changes through real-time graphics, exploring how light, color, and movement can create an evolving digital skyscape.
-- **Tech Stack**: WebGL
-- **Release Date**: 2026-07-20
-
-## 39. **[GAME] My Little Squid**
-- **URL**: https://ueber.itch.io/my-little-squid
-- **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
-- **Tech Stack**: Codex
-- **Release Date**: 2026-07-13
 
 ## 38. **[SERVICE] Korea Personas Match**
 - **URL**: https://korea-personas-match.web.app/
@@ -79,17 +79,17 @@
 - **Tech Stack**: Claude Code, Firebase
 - **Release Date**: 2026-02-24
 
-## 32. **[ART] Seoul Sound Topography**
-- **URL**: https://new-art-lab.web.app/seoul-sound-topography/
-- **Background**: What if we could revisit Seoul's soundscape in a different way? A web-based experimental art piece using real daytime noise data from Seongsu, Sinsa, City Hall, and Sinchon districts. YouTube videos matching each area and time are collected, and their audio levels shift continuously in response to changes in noise levels.
-- **Tech Stack**: Claude Code, Codex
-- **Release Date**: 2026-02-15
-
-## 31. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
+## 32. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
 - **URL**: https://github.com/UeberUeber/open-overmind
 - **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms: persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes), enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
 - **Tech Stack**: Claude Code, Codex
 - **Release Date**: 2026-02-22
+
+## 31. **[ART] Seoul Sound Topography**
+- **URL**: https://new-art-lab.web.app/seoul-sound-topography/
+- **Background**: What if we could revisit Seoul's soundscape in a different way? A web-based experimental art piece using real daytime noise data from Seongsu, Sinsa, City Hall, and Sinchon districts. YouTube videos matching each area and time are collected, and their audio levels shift continuously in response to changes in noise levels.
+- **Tech Stack**: Claude Code, Codex
+- **Release Date**: 2026-02-15
 
 ## 30. **[SERVICE] Playlist City: Your Music Builds a City**
 - **URL**: https://playlist-city.web.app/
