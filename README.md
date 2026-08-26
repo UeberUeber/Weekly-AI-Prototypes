@@ -3,10 +3,13 @@
 **English** | [한국어](README.ko.md)
 
 ## 44. **[GAME] Wiggle Pop**
-- **URL**: https://ueber.itch.io/wiggle-pop
+- **Platforms**: itch.io (HTML5), Apps in Toss
+- **itch.io URL**: https://ueber.itch.io/wiggle-pop
+- **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
 - **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
 - **Tech Stack**: Claude Code, Codex, HTML5 Canvas, JavaScript
-- **Release Date**: 2026-08-07
+- **itch.io First Public Release**: 2026-08-07
+- **Apps in Toss Release**: 2026-08-20
 
 ## 43. **[GAME] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir

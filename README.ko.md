@@ -3,10 +3,13 @@
 [English](README.md) | **한국어**
 
 ## 44. **[게임] Wiggle Pop**
-- **URL**: https://ueber.itch.io/wiggle-pop
+- **플랫폼**: itch.io (HTML5), Apps in Toss
+- **itch.io URL**: https://ueber.itch.io/wiggle-pop
+- **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
 - **배경**: 작은 온실을 배경으로 한 아늑한 분위기의 물리 기반 머지 퍼즐 게임입니다. 알, 애벌레, 번데기를 합쳐 곤충을 성장시키고, 잎과 쪼개지는 돌을 활용해 제한된 공간을 관리해야 합니다. 목표한 수만큼 곤충을 성체로 키워 자연으로 돌려보내면 다음 온실로 진행할 수 있습니다.
 - **기술 스택**: Claude Code, Codex, HTML5 Canvas, JavaScript
-- **공개일**: 2026-08-07
+- **itch.io 최초 공개일**: 2026-08-07
+- **Apps in Toss 출시일**: 2026-08-20
 
 ## 43. **[게임] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir
