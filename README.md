@@ -2,6 +2,12 @@
 
 **English** | [한국어](README.ko.md)
 
+## 45. **[GAME] Squid Zoom!**
+- **URL**: https://ueber.itch.io/squid-zoom
+- **Background**: A vertical mobile avoidance game where a small squid shifts between three currents to weave past coral, rocks, and seagrass while reacting to ambushes from moray eels and swordfish. The current accelerates as the distance increases, demanding faster route choices.
+- **Tech Stack**: Codex, JavaScript, CSS, Vite
+- **Release Date**: 2026-09-02
+
 ## 44. **[GAME] Wiggle Pop**
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop

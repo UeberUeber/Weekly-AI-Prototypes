@@ -2,6 +2,12 @@
 
 [English](README.md) | **한국어**
 
+## 45. **[게임] 오징어 슝! (Squid Zoom!)**
+- **URL**: https://ueber.itch.io/squid-zoom
+- **배경**: 작은 오징어가 세 갈래 물살을 오가며 산호·바위·해초를 피하고, 곰치와 청새치의 기습에 대응하는 세로형 모바일 회피 게임입니다. 이동 거리가 늘어날수록 물살이 빨라져 더 빠른 경로 판단이 필요합니다.
+- **기술 스택**: Codex, JavaScript, CSS, Vite
+- **공개일**: 2026-09-02
+
 ## 44. **[게임] Wiggle Pop**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
