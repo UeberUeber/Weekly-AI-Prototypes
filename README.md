@@ -2,11 +2,17 @@
 
 **English** | [한국어](README.ko.md)
 
-## 45. **[GAME] Squid Zoom!**
+## 46. **[GAME] Squid Zoom!**
 - **URL**: https://ueber.itch.io/squid-zoom
 - **Background**: A vertical mobile avoidance game where a small squid shifts between three currents to weave past coral, rocks, and seagrass while reacting to ambushes from moray eels and swordfish. The current accelerates as the distance increases, demanding faster route choices.
 - **Tech Stack**: Codex, JavaScript, CSS, Vite
 - **Release Date**: 2026-09-02
+
+## 45. **[GAME] ZINBALL**
+- **URL**: https://ueber.itch.io/zinball
+- **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
+- **Tech Stack**: Codex, HTML5 Canvas, JavaScript
+- **Release Date**: 2026-08-27
 
 ## 44. **[GAME] Wiggle Pop**
 - **Platforms**: itch.io (HTML5), Apps in Toss

@@ -2,11 +2,17 @@
 
 [English](README.md) | **한국어**
 
-## 45. **[게임] 오징어 슝! (Squid Zoom!)**
+## 46. **[게임] 오징어 슝! (Squid Zoom!)**
 - **URL**: https://ueber.itch.io/squid-zoom
 - **배경**: 작은 오징어가 세 갈래 물살을 오가며 산호·바위·해초를 피하고, 곰치와 청새치의 기습에 대응하는 세로형 모바일 회피 게임입니다. 이동 거리가 늘어날수록 물살이 빨라져 더 빠른 경로 판단이 필요합니다.
 - **기술 스택**: Codex, JavaScript, CSS, Vite
 - **공개일**: 2026-09-02
+
+## 45. **[게임] ZINBALL**
+- **URL**: https://ueber.itch.io/zinball
+- **배경**: 플리퍼와 쇠공으로 몰려오는 좀비를 막고 기지를 지키는 핀볼 디펜스 게임입니다. 스테이지 사이에 공의 개수와 속도를 강화하고, 범퍼를 배치해 공의 반사 경로와 좀비의 이동 경로를 함께 바꿀 수 있습니다.
+- **기술 스택**: Codex, HTML5 Canvas, JavaScript
+- **공개일**: 2026-08-27
 
 ## 44. **[게임] Wiggle Pop**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
