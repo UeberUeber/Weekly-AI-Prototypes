@@ -2,19 +2,37 @@
 
 **English** | [한국어](README.ko.md)
 
-## 46. **[GAME] Squid Zoom!**
+## 50. **[GAME] Starlight Tavern**
+- **URL**: https://ueber.itch.io/fantasy-tavern
+- **Background**: A fantasy management game where players arrange rooms, hire staff, and grow a small tavern into a towering inn. Guests from different fantasy races have different needs for space and surroundings, shaping how players design and run the building. Goblin loans can fund expansion, but unpaid debts put the tavern at risk.
+- **Tech Stack**: Codex, JavaScript, HTML, CSS
+- **Release Date**: 2026-09-06
+
+## 49. **[GAME] Jelly Squishy**
+- **URL**: https://ueber.itch.io/jelly-squishy
+- **Background**: A relaxing 3D jelly playground where players press, stretch, and release soft shapes on a plate. Choose from pudding, a gummy bear, slime, mochi, and Wiggle, each with different sizes, bounce, and sounds. Play with touch or a mouse, with no score or time limit.
+- **Tech Stack**: Codex, Three.js, JavaScript
+- **Release Date**: 2026-09-06
+
+## 48. **[ART] Into the Painting**
+- **URL**: https://into-the-painting.ueber.chatgpt.site/
+- **Background**: An interactive 3D artwork where visitors walk through a gallery and step inside Vincent van Gogh's Sunflowers. From one viewpoint, the scene aligns with the original painting; moving through it reveals stretched forms and hidden depth, exploring the relationship between a flat image, space, and the viewer's position.
+- **Tech Stack**: Codex, Three.js, Vite
+- **Release Date**: 2026-09-05
+
+## 47. **[GAME] Squid Zoom!**
 - **URL**: https://ueber.itch.io/squid-zoom
 - **Background**: A vertical mobile avoidance game where a small squid shifts between three currents to weave past coral, rocks, and seagrass while reacting to ambushes from moray eels and swordfish. The current accelerates as the distance increases, demanding faster route choices.
 - **Tech Stack**: Codex, JavaScript, CSS, Vite
 - **Release Date**: 2026-09-02
 
-## 45. **[GAME] ZINBALL**
+## 46. **[GAME] ZINBALL**
 - **URL**: https://ueber.itch.io/zinball
 - **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
 - **Tech Stack**: Codex, HTML5 Canvas, JavaScript
 - **Release Date**: 2026-08-27
 
-## 44. **[GAME] Wiggle Pop**
+## 45. **[GAME] Wiggle Pop**
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
 - **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
@@ -23,25 +41,25 @@
 - **itch.io First Public Release**: 2026-08-07
 - **Apps in Toss Release**: 2026-08-20
 
-## 43. **[GAME] Slime Choir**
+## 44. **[GAME] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir
 - **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
 - **Tech Stack**: Codex, Three.js
 - **Release Date**: 2026-07-31
 
-## 42. **[ART] WebGL Sky Simulator**
+## 43. **[ART] WebGL Sky Simulator**
 - **URL**: https://www.instagram.com/reel/DbBZACVJ-0Q/
 - **Background**: A WebGL-based visual experiment that simulates the sky and atmospheric changes through real-time graphics, exploring how light, color, and movement can create an evolving digital skyscape.
 - **Tech Stack**: WebGL
 - **Release Date**: 2026-07-20
 
-## 41. **[GAME] My Little Squid**
+## 42. **[GAME] My Little Squid**
 - **URL**: https://ueber.itch.io/my-little-squid
 - **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
 - **Tech Stack**: Codex
 - **Release Date**: 2026-07-13
 
-## 40. **[ART] One Path (하나의 길)**
+## 41. **[ART] One Path (하나의 길)**
 - **URL**: https://youtu.be/SvzUpN7c8OA
 - **Background**: This video work begins with the recognition that people can inhabit the same city while perceiving the world through different senses. Focusing on Yeouido and the National Assembly as a symbolic axis of Yeongdeungpo, it examines how images of law and politics shape a shared sense of community while also producing feelings of division. Using images and sounds from Yeongdeungpo, Yeouido, and the National Assembly, the work explores a sensory landscape where integration and fragmentation coexist.
 - **Exhibition**: Submitted to the Yeongdeungpo Cultural Foundation’s [2026 Contemporary Art Planning Exhibition](https://www.ydpcf.or.kr/postview.do?bid=1&pid=2573), themed “Onsaemiro: Reconfiguring Community and Shared Sensibility.”
@@ -49,13 +67,19 @@
 - **Tech Stack**: Codex
 - **Release Date**: 2026-07-10
 
-## 39. **[ART] Our Jubilee Ist Unverhemmet (우리의 환희는 거칠 것이 없어라)**
+## 40. **[ART] Our Jubilee Ist Unverhemmet (우리의 환희는 거칠 것이 없어라)**
 - **URL**: https://youtu.be/sIYhNCj0mw8
 - **Background**: Beginning with the idea of a “cultural peddler” (munhwa bobusang), this video work asks where such a traveler comes from, where they must go, and what they should carry along the way. Through this imagined journey, it examines what contemporary Korean culture is built upon and what lies beneath its foundations.
 - **Recognition**: Selected as a finalist in the 2026 Nam June Paik Cultural Foundation Media Art Competition.
 - **Creative Process**: AI was used to develop workflow automation and custom creative tools that supported the production of the video.
 - **Tech Stack**: Codex
 - **Release Date**: 2026-06-30
+
+## 39. **[GAME] MICRO CONTROL: Slip Through**
+- **URL**: https://ueber.itch.io/micro-control-slip-through
+- **Background**: A challenging browser puzzle that demands both problem-solving and precise control, combining mental challenge with careful execution.
+- **Tech Stack**: Codex, HTML5
+- **Release Date**: 2026-05-03
 
 ## 38. **[SERVICE] Korea Personas Match**
 - **URL**: https://korea-personas-match.web.app/
