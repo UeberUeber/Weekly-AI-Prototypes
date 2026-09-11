@@ -27,7 +27,9 @@
 - **Release Date**: 2026-09-02
 
 ## 46. **[GAME] ZINBALL**
-- **URL**: https://ueber.itch.io/zinball
+- **Platforms**: itch.io (HTML5), Apps in Toss
+- **itch.io URL**: https://ueber.itch.io/zinball
+- **Apps in Toss URL**: https://minion.toss.im/z8nUWwdA
 - **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
 - **Tech Stack**: Codex, HTML5 Canvas, JavaScript
 - **Release Date**: 2026-08-27

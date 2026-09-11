@@ -27,7 +27,9 @@
 - **공개일**: 2026-09-02
 
 ## 46. **[게임] ZINBALL**
-- **URL**: https://ueber.itch.io/zinball
+- **플랫폼**: itch.io (HTML5), Apps in Toss
+- **itch.io URL**: https://ueber.itch.io/zinball
+- **Apps in Toss URL**: https://minion.toss.im/z8nUWwdA
 - **배경**: 플리퍼와 쇠공으로 몰려오는 좀비를 막고 기지를 지키는 핀볼 디펜스 게임입니다. 스테이지 사이에 공의 개수와 속도를 강화하고, 범퍼를 배치해 공의 반사 경로와 좀비의 이동 경로를 함께 바꿀 수 있습니다.
 - **기술 스택**: Codex, HTML5 Canvas, JavaScript
 - **공개일**: 2026-08-27
