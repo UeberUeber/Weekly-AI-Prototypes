@@ -2,6 +2,21 @@
 
 **English** | [한국어](README.ko.md)
 
+## 52. **[GAME] Ant Simulator**
+- **URL**: https://ueber.itch.io/ant-simulator
+- **Background**: An observation-based ant colony simulation beginning with a queen digging her first tunnel. Watch ants move soil, carry food, and expand their nest; place food or bring rain to see the surrounding world change.
+- **Tech Stack**: HTML5 Canvas, JavaScript, CSS
+- **Release Date**: 2026-09-16
+
+## 51. **[GAME] Daily Memory Pairs**
+- **Platforms**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
+- **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
+- **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
+- **Background**: A ten-stage memory card game. Remember briefly shown animal and fruit pictures, then match the hidden pairs. As the stages grow, more cards appear; the final result shows your time, attempts, and misses.
+- **Tech Stack**: HTML, CSS, JavaScript
+- **itch.io First Public Release**: 2026-09-11
+- **Apps in Toss Release**: 2026-09-16
+
 ## 50. **[GAME] Starlight Tavern**
 - **URL**: https://ueber.itch.io/fantasy-tavern
 - **Background**: A fantasy management game where players arrange rooms, hire staff, and grow a small tavern into a towering inn. Guests from different fantasy races have different needs for space and surroundings, shaping how players design and run the building. Goblin loans can fund expansion, but unpaid debts put the tavern at risk.
@@ -9,10 +24,12 @@
 - **Release Date**: 2026-09-06
 
 ## 49. **[GAME] Jelly Squishy**
-- **URL**: https://ueber.itch.io/jelly-squishy
+- **Platforms**: itch.io (HTML5), Apps in Toss (젤리 뽀잉)
+- **itch.io URL**: https://ueber.itch.io/jelly-squishy
+- **Apps in Toss URL**: https://minion.toss.im/FzrsSkJl
 - **Background**: A relaxing 3D jelly playground where players press, stretch, and release soft shapes on a plate. Choose from pudding, a gummy bear, slime, mochi, and Wiggle, each with different sizes, bounce, and sounds. Play with touch or a mouse, with no score or time limit.
 - **Tech Stack**: Codex, Three.js, JavaScript
-- **Release Date**: 2026-09-06
+- **itch.io First Public Release**: 2026-09-06
 
 ## 48. **[ART] Into the Painting**
 - **URL**: https://into-the-painting.ueber.chatgpt.site/
@@ -21,18 +38,20 @@
 - **Release Date**: 2026-09-05
 
 ## 47. **[GAME] Squid Zoom!**
-- **URL**: https://ueber.itch.io/squid-zoom
+- **Platforms**: itch.io (HTML5), Apps in Toss (오징어 슝)
+- **itch.io URL**: https://ueber.itch.io/squid-zoom
+- **Apps in Toss URL**: https://minion.toss.im/JQTnkwm6
 - **Background**: A vertical mobile avoidance game where a small squid shifts between three currents to weave past coral, rocks, and seagrass while reacting to ambushes from moray eels and swordfish. The current accelerates as the distance increases, demanding faster route choices.
 - **Tech Stack**: Codex, JavaScript, CSS, Vite
-- **Release Date**: 2026-09-02
+- **itch.io First Public Release**: 2026-09-02
 
 ## 46. **[GAME] ZINBALL**
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/zinball
-- **Apps in Toss URL**: https://minion.toss.im/z8nUWwdA
+- **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
 - **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
 - **Tech Stack**: Codex, HTML5 Canvas, JavaScript
-- **Release Date**: 2026-08-27
+- **itch.io First Public Release**: 2026-08-27
 
 ## 45. **[GAME] Wiggle Pop**
 - **Platforms**: itch.io (HTML5), Apps in Toss

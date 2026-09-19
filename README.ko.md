@@ -2,6 +2,21 @@
 
 [English](README.md) | **한국어**
 
+## 52. **[게임] 개미키우기 (Ant Simulator)**
+- **URL**: https://ueber.itch.io/ant-simulator
+- **배경**: 여왕개미가 첫 굴을 파는 순간부터 군체의 성장을 관찰하는 시뮬레이션입니다. 개미들이 흙과 먹이를 나르며 집을 넓히는 모습을 보고, 먹이를 놓거나 비를 내려 주변의 변화를 살펴볼 수 있습니다.
+- **기술 스택**: HTML5 Canvas, JavaScript, CSS
+- **공개일**: 2026-09-16
+
+## 51. **[게임] 매일 기억 짝맞추기 (Daily Memory Pairs)**
+- **플랫폼**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
+- **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
+- **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
+- **배경**: 잠깐 보여 준 동물·과일 그림을 기억하고 가려진 카드의 짝을 찾는 10단계 게임입니다. 단계가 올라갈수록 카드가 늘어나며, 마지막에 걸린 시간과 시도·실패 횟수를 확인합니다.
+- **기술 스택**: HTML, CSS, JavaScript
+- **itch.io 최초 공개일**: 2026-09-11
+- **Apps in Toss 출시일**: 2026-09-16
+
 ## 50. **[게임] 별빛 여관 (Starlight Tavern)**
 - **URL**: https://ueber.itch.io/fantasy-tavern
 - **배경**: 방을 배치하고 직원을 고용하며 작은 주점을 높은 여관으로 키우는 판타지 경영 게임입니다. 종족마다 필요한 자리와 편안하게 느끼는 환경이 달라, 손님의 특성에 맞춰 건물을 설계하고 운영해야 합니다. 고블린에게 돈을 빌려 확장할 수 있지만, 빚을 갚지 못하면 여관을 잃을 수 있습니다.
@@ -9,10 +24,12 @@
 - **공개일**: 2026-09-06
 
 ## 49. **[게임] Jelly Squishy**
-- **URL**: https://ueber.itch.io/jelly-squishy
+- **플랫폼**: itch.io (HTML5), Apps in Toss (젤리 뽀잉)
+- **itch.io URL**: https://ueber.itch.io/jelly-squishy
+- **Apps in Toss URL**: https://minion.toss.im/FzrsSkJl
 - **배경**: 접시 위의 말랑한 젤리를 누르고 늘렸다 놓으며 즐기는 3D 놀이 게임입니다. 푸딩, 곰돌이, 슬라임, 모찌, 꼬물이 중 원하는 모양을 고르면 서로 다른 크기와 탄성, 소리로 반응합니다. 점수나 시간 제한 없이 터치나 마우스로 느긋하게 만져볼 수 있습니다.
 - **기술 스택**: Codex, Three.js, JavaScript
-- **공개일**: 2026-09-06
+- **itch.io 최초 공개일**: 2026-09-06
 
 ## 48. **[아트] Into the Painting**
 - **URL**: https://into-the-painting.ueber.chatgpt.site/
@@ -21,18 +38,20 @@
 - **공개일**: 2026-09-05
 
 ## 47. **[게임] 오징어 슝! (Squid Zoom!)**
-- **URL**: https://ueber.itch.io/squid-zoom
+- **플랫폼**: itch.io (HTML5), Apps in Toss (오징어 슝)
+- **itch.io URL**: https://ueber.itch.io/squid-zoom
+- **Apps in Toss URL**: https://minion.toss.im/JQTnkwm6
 - **배경**: 작은 오징어가 세 갈래 물살을 오가며 산호·바위·해초를 피하고, 곰치와 청새치의 기습에 대응하는 세로형 모바일 회피 게임입니다. 이동 거리가 늘어날수록 물살이 빨라져 더 빠른 경로 판단이 필요합니다.
 - **기술 스택**: Codex, JavaScript, CSS, Vite
-- **공개일**: 2026-09-02
+- **itch.io 최초 공개일**: 2026-09-02
 
 ## 46. **[게임] ZINBALL**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/zinball
-- **Apps in Toss URL**: https://minion.toss.im/z8nUWwdA
+- **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
 - **배경**: 플리퍼와 쇠공으로 몰려오는 좀비를 막고 기지를 지키는 핀볼 디펜스 게임입니다. 스테이지 사이에 공의 개수와 속도를 강화하고, 범퍼를 배치해 공의 반사 경로와 좀비의 이동 경로를 함께 바꿀 수 있습니다.
 - **기술 스택**: Codex, HTML5 Canvas, JavaScript
-- **공개일**: 2026-08-27
+- **itch.io 최초 공개일**: 2026-08-27
 
 ## 45. **[게임] Wiggle Pop**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
