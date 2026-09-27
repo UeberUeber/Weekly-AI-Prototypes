@@ -2,13 +2,66 @@
 
 **English** | [한국어](README.ko.md)
 
-## 52. **[GAME] Ant Simulator**
-- **URL**: https://ueber.itch.io/ant-simulator
-- **Background**: An observation-based ant colony simulation beginning with a queen digging her first tunnel. Watch ants move soil, carry food, and expand their nest; place food or bring rain to see the surrounding world change.
-- **Tech Stack**: HTML5 Canvas, JavaScript, CSS
-- **Release Date**: 2026-09-16
+## 61. **[GAME] The Mountain**
+- **URL**: https://ueber.itch.io/the-mountain
+- **Background**: A first-person hiking survival game in which players climb through forests and over rocks toward a summit 1,397 meters above sea level. Brief thoughts from the hiker convey thirst, fatigue, and cold in place of health bars or a map. Find water and food, grip rocks to climb, and take on the challenge of reaching the summit and making it back down alive.
+- **Tech Stack**: Three.js, Claude, ChatGPT
+- **First Public Release**: 2026-09-28
 
-## 51. **[GAME] Daily Memory Pairs**
+## 60. **[GAME] T-Rex Is Coming!**
+- **URL**: https://ueber.itch.io/trex-is-coming
+- **Background**: Escape a pursuing T-Rex by riding a handcar along the railway. Alternate the left and right handles to build speed and put distance between you and the dinosaur before it catches up. The rhythm of pumping the handles and the approaching T-Rex create the tension of the chase.
+- **Tech Stack**: Three.js, Claude, ChatGPT
+- **First Public Release**: 2026-09-27
+
+## 59. **[GAME] Pinball Pang Pang**
+- **URL**: https://ueber.itch.io/pinball-pang-pang
+- **Background**: A pinball game where players launch a ball and keep it in play with flippers on a colorful fruit picnic table. Hit fruit and pass through the top lanes to score points. As the score rises, cherries, a ladybug, a picnic basket, multiball, and other features unlock in sequence.
+- **Tech Stack**: Three.js, Claude, ChatGPT
+- **First Public Release**: 2026-09-26
+
+## 58. **[ART] Artfly**
+- **Artwork**: https://www.instagram.com/p/DdqMOCrGqOi/
+- **Background**: An experiment that feeds images such as paintings and national flags into a fruit fly neural model and explores the computed responses over real neural connectivity and 3D neuron structures. Comparing differences and similarities across images, it explores the possibility of approaching human-made images through another organism's sensory system. The visualization shows model calculations, not a reconstruction of a fruit fly's actual subjective experience.
+- **Tech Stack**: Claude, ChatGPT, FlyVis
+- **Data**: FlyWire neural connectivity and 3D neuron structures
+- **First Public Release**: 2026-09-25
+
+## 57. **[GAME] Wall Cats**
+- **URL**: https://ueber.itch.io/wall-cats
+- **Background**: Explore a neighborhood and gradually befriend the cats you find. Name them, reach out a hand, and offer food to build a relationship. Their locations change with real-world time, so follow their traces and consult your notebook as you look forward to the next encounter.
+- **Tech Stack**: Claude, ChatGPT
+- **First Public Release**: 2026-09-25
+
+## 56. **[GAME] Crazy Train**
+- **URL**: https://ueber.itch.io/crazy-train
+- **Background**: Design your own looping railway around lakes, mountains, and rocks, then compete against two CPU engineers. Complete the track within the time limit and adjust your speed to avoid collisions or attack rival trains. The enclosed track area and the number of remaining cars affect your score, and you can switch between the full map and a locomotive view.
+- **Tech Stack**: Three.js, ChatGPT
+- **First Public Release**: 2026-09-21
+
+## 55. **[GAME] Bow & Hold**
+- **Platforms**: Roblox
+- **Play Link**: [🎮 Play on Roblox](https://www.roblox.com/join/ki3g9)
+- **Background**: A cooperative Roblox defense game where players fire bows from the walls to stop incoming monsters. Work with your teammates to defend the walls against a variety of monsters.
+- **Tech Stack**: Roblox Studio, ChatGPT
+- **First Public Release**: 2026-09-19
+
+## 54. **[GAME] Ant Simulator**
+- **Platforms**: itch.io (HTML5), Apps in Toss (개미키우기)
+- **itch.io URL**: https://ueber.itch.io/ant-simulator
+- **Apps in Toss URL**: https://minion.toss.im/9TUM0Sxu
+- **Background**: An observation-based ant colony simulation beginning with a queen digging her first tunnel. Watch ants move soil, carry food, and expand their nest; place food or bring rain to see the surrounding world change.
+- **Tech Stack**: ChatGPT
+- **itch.io First Public Release**: 2026-09-16
+
+## 53. **[SERVICE] Flower Sangsik**
+- **Platforms**: Apps in Toss
+- **URL**: https://minion.toss.im/v86scx6b
+- **Background**: A quiz-based service for learning flower meanings through colored-pencil illustrations of 50 familiar flowers. Answer ten randomly selected questions each round and check the answers, with no time limit or penalties for mistakes. Available inside Toss without installing a separate app.
+- **Tech Stack**: ChatGPT
+- **Project Start Date**: 2026-09-12 — based on the GitHub repository creation date
+
+## 52. **[GAME] Daily Memory Pairs**
 - **Platforms**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
 - **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
 - **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
@@ -16,6 +69,12 @@
 - **Tech Stack**: HTML, CSS, JavaScript
 - **itch.io First Public Release**: 2026-09-11
 - **Apps in Toss Release**: 2026-09-16
+
+## 51. **[GAME] East Wind Demo · Squirrel Hunt**
+- **URL**: https://ueber.itch.io/east-wind
+- **Background**: An action demo where players combine movement and combat skills to hunt ten squirrels in a small forest within three minutes. Control your distance with punches, the forward-moving Flash Fist, and the backward-dodging Afterimage Step, then collect the acorns dropped by defeated squirrels.
+- **Tech Stack**: ChatGPT
+- **First Public Release**: 2026-09-09
 
 ## 50. **[GAME] Starlight Tavern**
 - **URL**: https://ueber.itch.io/fantasy-tavern
@@ -50,7 +109,7 @@
 - **itch.io URL**: https://ueber.itch.io/zinball
 - **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
 - **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
-- **Tech Stack**: Codex, HTML5 Canvas, JavaScript
+- **Tech Stack**: Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-27
 
 ## 45. **[GAME] Wiggle Pop**
@@ -58,7 +117,7 @@
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
 - **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
 - **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
-- **Tech Stack**: Claude Code, Codex, HTML5 Canvas, JavaScript
+- **Tech Stack**: Claude Code, Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-07
 - **Apps in Toss Release**: 2026-08-20
 

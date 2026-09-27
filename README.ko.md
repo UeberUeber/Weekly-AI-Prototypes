@@ -2,13 +2,66 @@
 
 [English](README.md) | **한국어**
 
-## 52. **[게임] 개미키우기 (Ant Simulator)**
-- **URL**: https://ueber.itch.io/ant-simulator
-- **배경**: 여왕개미가 첫 굴을 파는 순간부터 군체의 성장을 관찰하는 시뮬레이션입니다. 개미들이 흙과 먹이를 나르며 집을 넓히는 모습을 보고, 먹이를 놓거나 비를 내려 주변의 변화를 살펴볼 수 있습니다.
-- **기술 스택**: HTML5 Canvas, JavaScript, CSS
-- **공개일**: 2026-09-16
+## 61. **[게임] 산 (The Mountain)**
+- **URL**: https://ueber.itch.io/the-mountain
+- **배경**: 해발 1,397m 정상을 향해 숲과 바위를 오르는 1인칭 등산 생존 게임입니다. 체력 막대나 지도 대신 등산객의 짧은 생각으로 갈증과 피로, 추위를 알아차립니다. 물과 먹을 것을 찾고 바위를 붙잡아 오르며, 정상에 도착한 뒤 살아서 내려오는 것까지 도전합니다.
+- **기술 스택**: Three.js, Claude, ChatGPT
+- **최초 공개일**: 2026-09-28
 
-## 51. **[게임] 매일 기억 짝맞추기 (Daily Memory Pairs)**
+## 60. **[게임] 티라노가 온다! (T-Rex Is Coming!)**
+- **URL**: https://ueber.itch.io/trex-is-coming
+- **배경**: 핸드카를 타고 선로를 달리며 뒤쫓아오는 티라노에게서 도망치는 게임입니다. 좌우 레버를 번갈아 조작해 속도를 높이고, 티라노가 따라잡기 전에 거리를 벌려야 합니다. 레버를 움직이는 리듬과 뒤에서 다가오는 티라노의 추격이 긴장감을 만듭니다.
+- **기술 스택**: Three.js, Claude, ChatGPT
+- **최초 공개일**: 2026-09-27
+
+## 59. **[게임] 핀볼 팡팡 (Pinball Pang Pang)**
+- **URL**: https://ueber.itch.io/pinball-pang-pang
+- **배경**: 알록달록한 과일 피크닉 판에서 공을 쏘고 플리퍼로 받아 올리며 점수를 쌓는 핀볼 게임입니다. 과일을 맞히고 위쪽 레인을 통과하면서 공을 살려 두면, 점수에 따라 체리·무당벌레·피크닉 바구니·멀티볼 등 새로운 요소가 차례로 열립니다.
+- **기술 스택**: Three.js, Claude, ChatGPT
+- **최초 공개일**: 2026-09-26
+
+## 58. **[아트] 아트플라이 (Artfly)**
+- **작품 소개**: https://www.instagram.com/p/DdqMOCrGqOi/
+- **배경**: 명화와 국기 등의 이미지를 초파리 신경계 모델에 입력하고, 계산된 반응을 실제 신경 연결망과 3D 뉴런 구조 위에서 살펴보는 실험입니다. 서로 다른 이미지가 만드는 반응의 차이와 공통점을 비교하며, 인간이 만든 이미지를 다른 생물의 감각 체계로 바라볼 가능성을 탐색합니다. 시각화는 모델의 계산 결과이며 초파리의 실제 주관적 경험을 재현한 것은 아닙니다.
+- **기술 스택**: Claude, ChatGPT, FlyVis
+- **데이터**: FlyWire 신경 연결망·3D 뉴런 구조
+- **최초 공개일**: 2026-09-25
+
+## 57. **[게임] 고양이 길들이기 (Wall Cats)**
+- **URL**: https://ueber.itch.io/wall-cats
+- **배경**: 동네를 둘러보며 고양이를 찾아가 조금씩 친해지는 게임입니다. 만난 고양이에게 이름을 지어 주고, 손을 내밀고, 먹이를 주며 관계를 쌓습니다. 실제 시간에 맞춰 고양이가 머무는 곳이 달라지므로, 흔적과 기록 수첩을 살펴보며 다음 만남을 기다릴 수 있습니다.
+- **기술 스택**: Claude, ChatGPT
+- **최초 공개일**: 2026-09-25
+
+## 56. **[게임] 크레이지 트레인 (Crazy Train)**
+- **URL**: https://ueber.itch.io/crazy-train
+- **배경**: 호수와 산, 바위를 피해 자신만의 순환 철길을 설계하고 두 CPU 기관사와 경쟁하는 기차 게임입니다. 제한 시간 안에 철길을 완성한 뒤 속도를 조절해 충돌을 피하거나 상대 열차를 공격합니다. 철길이 감싼 면적과 남은 차량 수가 점수에 영향을 주며, 전체 지도와 기관차 시점을 오가며 플레이할 수 있습니다.
+- **기술 스택**: Three.js, ChatGPT
+- **최초 공개일**: 2026-09-21
+
+## 55. **[게임] 보우 앤 홀드 (Bow & Hold)**
+- **플랫폼**: Roblox
+- **플레이 링크**: [🎮 Play on Roblox](https://www.roblox.com/join/ki3g9)
+- **배경**: 성벽 위에서 활을 쏘며 몰려오는 몬스터를 막는 Roblox 협동 디펜스 게임입니다. 동료들과 함께 다양한 몬스터들에 맞서 성벽을 지켜야 합니다.
+- **기술 스택**: Roblox Studio, ChatGPT
+- **최초 공개일**: 2026-09-19
+
+## 54. **[게임] 개미키우기 (Ant Simulator)**
+- **플랫폼**: itch.io (HTML5), Apps in Toss (개미키우기)
+- **itch.io URL**: https://ueber.itch.io/ant-simulator
+- **Apps in Toss URL**: https://minion.toss.im/9TUM0Sxu
+- **배경**: 여왕개미가 첫 굴을 파는 순간부터 군체의 성장을 관찰하는 시뮬레이션입니다. 개미들이 흙과 먹이를 나르며 집을 넓히는 모습을 보고, 먹이를 놓거나 비를 내려 주변의 변화를 살펴볼 수 있습니다.
+- **기술 스택**: ChatGPT
+- **itch.io 최초 공개일**: 2026-09-16
+
+## 53. **[서비스] 꽃말 상식**
+- **플랫폼**: Apps in Toss
+- **URL**: https://minion.toss.im/v86scx6b
+- **배경**: 익숙한 꽃 50종의 색연필 일러스트를 보며 꽃말을 알아보는 퀴즈형 서비스입니다. 매번 무작위로 나오는 10문제를 풀고 정답을 확인합니다. 시간제한이나 오답 감점 없이 즐길 수 있으며, 별도 앱 설치 없이 토스 안에서 이용할 수 있습니다.
+- **기술 스택**: ChatGPT
+- **프로젝트 시작일**: 2026-09-12 — GitHub 저장소 최초 생성일 기준
+
+## 52. **[게임] 매일 기억 짝맞추기 (Daily Memory Pairs)**
 - **플랫폼**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
 - **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
 - **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
@@ -16,6 +69,12 @@
 - **기술 스택**: HTML, CSS, JavaScript
 - **itch.io 최초 공개일**: 2026-09-11
 - **Apps in Toss 출시일**: 2026-09-16
+
+## 51. **[게임] 이스트 윈드 데모 · 다람쥐 사냥 (East Wind Demo · Squirrel Hunt)**
+- **URL**: https://ueber.itch.io/east-wind
+- **배경**: 작은 숲에서 이동과 공격 기술을 조합해 3분 안에 다람쥐 10마리를 사냥하는 액션 데모입니다. 주먹 공격, 앞으로 파고드는 ‘섬권’, 뒤로 물러나는 ‘잔영보’로 거리를 조절하며 싸우고, 다람쥐가 떨어뜨린 도토리를 주워 모을 수 있습니다.
+- **기술 스택**: ChatGPT
+- **최초 공개일**: 2026-09-09
 
 ## 50. **[게임] 별빛 여관 (Starlight Tavern)**
 - **URL**: https://ueber.itch.io/fantasy-tavern
@@ -50,7 +109,7 @@
 - **itch.io URL**: https://ueber.itch.io/zinball
 - **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
 - **배경**: 플리퍼와 쇠공으로 몰려오는 좀비를 막고 기지를 지키는 핀볼 디펜스 게임입니다. 스테이지 사이에 공의 개수와 속도를 강화하고, 범퍼를 배치해 공의 반사 경로와 좀비의 이동 경로를 함께 바꿀 수 있습니다.
-- **기술 스택**: Codex, HTML5 Canvas, JavaScript
+- **기술 스택**: Codex, JavaScript
 - **itch.io 최초 공개일**: 2026-08-27
 
 ## 45. **[게임] Wiggle Pop**
@@ -58,7 +117,7 @@
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
 - **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
 - **배경**: 작은 온실을 배경으로 한 아늑한 분위기의 물리 기반 머지 퍼즐 게임입니다. 알, 애벌레, 번데기를 합쳐 곤충을 성장시키고, 잎과 쪼개지는 돌을 활용해 제한된 공간을 관리해야 합니다. 목표한 수만큼 곤충을 성체로 키워 자연으로 돌려보내면 다음 온실로 진행할 수 있습니다.
-- **기술 스택**: Claude Code, Codex, HTML5 Canvas, JavaScript
+- **기술 스택**: Claude Code, Codex, JavaScript
 - **itch.io 최초 공개일**: 2026-08-07
 - **Apps in Toss 출시일**: 2026-08-20
 
