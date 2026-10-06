@@ -2,6 +2,13 @@
 
 **English** | [한국어](README.ko.md)
 
+## 62. **[SERVICE] Today Wallpaper**
+- **Platforms**: Apps in Toss
+- **URL**: https://minion.toss.im/7iihoLAr
+- **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album. It runs inside Toss without installing a separate app.
+- **Tech Stack**: Claude Code, Codex
+- **Apps in Toss Release**: 2026-10-06
+
 ## 61. **[GAME] The Mountain**
 - **URL**: https://ueber.itch.io/the-mountain
 - **Background**: A first-person hiking survival game in which players climb through forests and over rocks toward a summit 1,397 meters above sea level. Brief thoughts from the hiker convey thirst, fatigue, and cold in place of health bars or a map. Find water and food, grip rocks to climb, and take on the challenge of reaching the summit and making it back down alive.
