@@ -2,6 +2,44 @@
 
 **English** | [한국어](README.ko.md)
 
+## 67. **[GAME] Box Breaker**
+- **Platforms**: itch.io (HTML5), ONE Store (AI Game Web)
+- **itch.io URL**: https://ueber.itch.io/box-breaker
+- **Background**: A mobile-first pixel-art incremental game. Tap boxes to break them, earn gold, and upgrade a shared hammer that powers both your taps and up to five automatic hammers. Thirty box tiers, from wooden to primordial, grow tougher as you go, and breaking enough boxes at the top tier opens the next one. Gems buy hammer traits such as critical hits, shockwaves and plunder, a wandering golden box pays five times the reward for ten quick taps, and a thirty-second whack-a-mole raid opens every ten minutes. Gold keeps accumulating while you are away, up to the storage cap.
+- **Tech Stack**: HTML5, JavaScript, Codex, Claude Code
+- **First Public Release**: 2026-10-27
+
+## 66. **[GAME] Deepwater Fishing**
+- **Platforms**: itch.io (HTML5), ONE Store (AI Game Web), Apps in Toss (심해낚시)
+- **itch.io URL**: https://ueber.itch.io/deepwater-fishing
+- **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
+- **Background**: A mobile web sea fishing game. Sail your boat out to a school of fish, cast, hook and reel, then sell your catch at the harbor to upgrade your reel, line, storage and rod or buy a better boat. Six sea areas, from calm coastal waters to the deep open sea, hold 42 creatures to catch and record in the encyclopedia, and in the farther waters a giant shadow attacks the boat. The itch.io version has no ads.
+- **Tech Stack**: HTML5, JavaScript, Claude Code, Codex
+- **First Public Release**: 2026-10-20
+
+## 65. **[GAME] Shrimp Raising**
+- **Platforms**: itch.io (HTML5), ONE Store (AI Game Web), Apps in Toss (새우 키우기)
+- **itch.io URL**: https://ueber.itch.io/shrimp-raising
+- **Apps in Toss URL**: https://tossminiapp.com/s/nLlkn1kt
+- **Background**: A breeding game set in a shrimp tank that keeps running in real time. Feed the shrimp, change the water and pair them up to find hidden color genes and build lineages with deeper colors. Tap a shrimp to see its growth, breeding state and lineage, choose a mate or sell it, pick up molted shells from the floor, and fill the encyclopedia by color and grade. What happens while the app is closed is calculated when you return, up to 24 hours.
+- **Tech Stack**: HTML5, JavaScript, Claude Code
+- **First Public Release**: 2026-10-14
+
+## 64. **[GAME] One Touch Drum**
+- **Platforms**: ONE Store (AI Game Web), Apps in Toss (원터치드럼)
+- **Apps in Toss URL**: https://tossminiapp.com/s/nXFz4UFC
+- **Background**: A one-touch rhythm game in which a drum stick sweeps around a circle like a clock hand and you tap the screen at the moment it passes a beat dot. One lap is one four-beat bar, and the stick's speed is the BPM. Listen to the rhythm for one lap, then play it for three laps; accuracy of 60, 80 and 95 percent earns one to three stars that unlock the next level and genre. Eleven genres, from basics through rock, reggae, jazz and drum and bass, span 110 levels at 60 to 180 BPM, and each world has its own drum sound and visual style.
+- **Tech Stack**: HTML5, JavaScript, Claude Code
+- **First Public Release**: 2026-10-13
+
+## 63. **[GAME] Dance King**
+- **Platforms**: itch.io (HTML5), ONE Store (AI Game Web), Apps in Toss (댄스 킹)
+- **itch.io URL**: https://ueber.itch.io/dance-king
+- **Apps in Toss URL**: https://tossminiapp.com/s/BtWvJXLr
+- **Background**: A rhythm battle against ten CPU dancers. The directions and timing the opponent actually presses become the chart you follow, and the rhythm you tap freely for four seconds becomes the chart the opponent must follow. Each match runs three rounds of showing and following, and the average score decides the winner. Opponents from BOLT-1 to QUATTRO differ in BPM, rhythm style, chart length and note caps. Play with four arrow keys on PC or four on-screen buttons on mobile.
+- **Tech Stack**: HTML5, JavaScript, Claude Code
+- **First Public Release**: 2026-09-28
+
 ## 62. **[SERVICE] Today Wallpaper**
 - **Platforms**: Apps in Toss
 - **URL**: https://minion.toss.im/7iihoLAr

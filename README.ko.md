@@ -2,6 +2,44 @@
 
 [English](README.md) | **한국어**
 
+## 67. **[게임] 상자 깨기 (Box Breaker)**
+- **플랫폼**: itch.io (HTML5), 원스토어 (AI 게임 Web)
+- **itch.io URL**: https://ueber.itch.io/box-breaker
+- **배경**: 모바일 우선 픽셀아트 증분형 게임입니다. 상자를 톡톡 두드려 부수고 모은 골드로 공통 망치를 강화하면 수동 공격과 최대 5개의 자동 망치 피해가 함께 오릅니다. 나무 상자부터 태초 상자까지 30단계가 점점 단단해지고, 가장 높은 단계에서 정해진 개수를 깨면 다음 단계가 열립니다. 보석으로 치명타, 충격파, 약탈 같은 망치 속성을 사고, 떠돌이 황금 상자는 10번 빠르게 두드리면 보상 5배를 주며, 10분마다 30초 두더지잡기 레이드가 열립니다. 자리를 비운 동안에도 저장고 용량까지 골드가 쌓입니다.
+- **기술 스택**: HTML5, JavaScript, Codex, Claude Code
+- **최초 공개일**: 2026-10-27
+
+## 66. **[게임] 심해낚시 (Deepwater Fishing)**
+- **플랫폼**: itch.io (HTML5), 원스토어 (AI 게임 Web), Apps in Toss (심해낚시)
+- **itch.io URL**: https://ueber.itch.io/deepwater-fishing
+- **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
+- **배경**: 모바일 웹 바다 낚시 게임입니다. 배를 몰아 어군으로 출항해 던지고, 챔질하고, 감아서 잡은 생물을 항구에서 팔아 릴, 낚싯줄, 보관함, 낚싯대를 강화하거나 더 좋은 배를 삽니다. 잔잔한 연안부터 먼바다 심해까지 해역 6곳에 생물 42종이 있어 도감을 채울 수 있고, 먼 해역에서는 거대한 그림자가 배를 공격합니다. itch.io 버전에는 광고가 없습니다.
+- **기술 스택**: HTML5, JavaScript, Claude Code, Codex
+- **최초 공개일**: 2026-10-20
+
+## 65. **[게임] 새우 키우기 (Shrimp Raising)**
+- **플랫폼**: itch.io (HTML5), 원스토어 (AI 게임 Web), Apps in Toss (새우 키우기)
+- **itch.io URL**: https://ueber.itch.io/shrimp-raising
+- **Apps in Toss URL**: https://tossminiapp.com/s/nLlkn1kt
+- **배경**: 실제 시간으로 흘러가는 새우 수조에서 새우를 키우는 브리딩 게임입니다. 먹이를 주고 물을 갈아 주며 짝을 지어 숨은 색 유전자를 찾고, 더 진한 색의 계보를 만들어 갑니다. 새우를 누르면 성장과 번식 상태, 계보를 보고 짝을 정하거나 팔 수 있고, 바닥의 허물을 줍고 색과 등급별로 도감을 채웁니다. 앱을 꺼 둔 동안의 변화는 최대 24시간까지 다시 열 때 계산됩니다.
+- **기술 스택**: HTML5, JavaScript, Claude Code
+- **최초 공개일**: 2026-10-14
+
+## 64. **[게임] 원터치 드럼 (One Touch Drum)**
+- **플랫폼**: 원스토어 (AI 게임 Web), Apps in Toss (원터치드럼)
+- **Apps in Toss URL**: https://tossminiapp.com/s/nXFz4UFC
+- **배경**: 시계 바늘처럼 도는 드럼 스틱이 원 위의 비트 점을 지나는 순간 화면을 톡 치는 원터치 리듬 게임입니다. 한 바퀴가 한 마디(4박)이고 스틱이 도는 속도가 곧 BPM입니다. 먼저 한 바퀴 동안 리듬을 듣고 이어서 세 바퀴를 직접 연주하며, 정확도 60, 80, 95%에 따라 별 1~3개를 받아 다음 레벨과 장르를 엽니다. 기본기부터 락, 레게, 재즈, 드럼앤베이스까지 11개 장르, 60~180 BPM의 110개 레벨이 있고 월드마다 드럼 소리와 화면 분위기가 다릅니다.
+- **기술 스택**: HTML5, JavaScript, Claude Code
+- **최초 공개일**: 2026-10-13
+
+## 63. **[게임] 댄스 킹 (Dance King)**
+- **플랫폼**: itch.io (HTML5), 원스토어 (AI 게임 Web), Apps in Toss (댄스 킹)
+- **itch.io URL**: https://ueber.itch.io/dance-king
+- **Apps in Toss URL**: https://tossminiapp.com/s/BtWvJXLr
+- **배경**: CPU 댄서 10명과 겨루는 리듬 배틀입니다. 상대가 실제로 누른 방향과 시간 간격이 그대로 내가 따라 칠 악보가 되고, 내가 4초 동안 자유롭게 친 리듬이 상대가 따라 칠 악보가 됩니다. 한 판은 출제와 따라치기 3라운드로 진행되며 평균 점수로 승패를 정합니다. BOLT-1부터 QUATTRO까지 상대마다 BPM, 리듬 스타일, 악보 길이, 노트 상한이 다릅니다. PC는 방향키 4개, 모바일은 화면 아래 버튼 4개로 조작합니다.
+- **기술 스택**: HTML5, JavaScript, Claude Code
+- **최초 공개일**: 2026-09-28
+
 ## 62. **[서비스] 오늘의 배경화면 (Today Wallpaper)**
 - **플랫폼**: Apps in Toss
 - **URL**: https://minion.toss.im/7iihoLAr
