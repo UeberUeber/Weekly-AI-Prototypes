@@ -6,7 +6,7 @@
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
 - **Apps in Toss URL**: https://tossminiapp.com/s/xzYqZwGf
-- **Background**: An experiment in designing what keeps players hooked in an incremental game. It shapes a 30-tier difficulty curve, the switch from tapping to automation, and events such as a wandering golden box and a raid every ten minutes that give players a reason to come back.
+- **Background**: An experiment in what keeps players hooked in an incremental game. It explores how to design the difficulty of each growth stage and the events that bring players back.
 - **Tech Stack**: HTML5, JavaScript, Codex, Claude Code
 - **First Public Release**: 2026-10-27
 
