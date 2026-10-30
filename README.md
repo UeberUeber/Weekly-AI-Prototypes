@@ -5,6 +5,7 @@
 ## 68. **[GAME] Box Breaker**
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
+- **Apps in Toss URL**: https://tossminiapp.com/s/xzYqZwGf
 - **Background**: A prototype testing whether manual tapping and automation can both stay meaningful in an incremental game. Its design notes set hypotheses such as the first automatic hammer being a turning point and manual taps keeping their value after automation. The core game has no ads or payments; each store channel plugs in rewarded ads and a fever pass, so the itch.io, ONE Store and Apps in Toss versions come from one codebase.
 - **Tech Stack**: HTML5, JavaScript, Codex, Claude Code
 - **First Public Release**: 2026-10-27

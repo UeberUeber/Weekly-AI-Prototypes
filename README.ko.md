@@ -5,6 +5,7 @@
 ## 68. **[게임] 상자 깨기 (Box Breaker)**
 - **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
+- **Apps in Toss URL**: https://tossminiapp.com/s/xzYqZwGf
 - **배경**: 증분형 게임에서 직접 두드리는 손맛과 자동화가 둘 다 의미를 가질 수 있는지 시험한 프로토타입입니다. 기획 단계에서 자동 망치 첫 구매가 전환점이 되는지, 자동화 뒤에도 직접 탭이 가치를 갖는지 같은 가설을 세웠습니다. 원본에는 광고와 결제가 없고 채널마다 보상형 광고와 피버 패스를 끼워 넣는 구조로, 코드 하나에서 itch.io, 원스토어, 토스판을 만들었습니다.
 - **기술 스택**: HTML5, JavaScript, Codex, Claude Code
 - **최초 공개일**: 2026-10-27
