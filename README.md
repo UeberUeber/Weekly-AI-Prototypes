@@ -109,7 +109,7 @@
 ## 53. **[SERVICE] Flower Sangsik**
 - **Platforms**: Apps in Toss
 - **URL**: https://minion.toss.im/v86scx6b
-- **Background**: A quiz-based service for learning flower meanings through colored-pencil illustrations of 50 familiar flowers. Answer ten randomly selected questions each round and check the answers, with no time limit or penalties for mistakes. Available inside Toss without installing a separate app.
+- **Background**: A flower-language quiz made for Korean seniors. Built on market research into Apps in Toss services, it experiments with a service seniors can enjoy without any pressure.
 - **Tech Stack**: ChatGPT
 - **Project Start Date**: 2026-09-12 — based on the GitHub repository creation date
 
@@ -215,7 +215,7 @@
 
 ## 38. **[SERVICE] Korea Personas Match**
 - **URL**: https://korea-personas-match.web.app/
-- **Background**: A persona-matching service that estimates how many people in Korea resemble the user based on a short survey. It first narrows one million synthetic Korean personas using structured conditions, then uses AI to evaluate preferences and free-text responses, returning the closest persona matches and an experimental population estimate.
+- **Background**: A service that estimates how many people in Korea are like you, based on a short survey. It combines large-scale synthetic Korean persona data with AI to find the personas closest to you.
 - **Dataset**: [NVIDIA Nemotron-Personas-Korea](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea), generated from Korean public statistics and survey sources including KOSIS, the Supreme Court of Korea, the National Health Insurance Service, and the Korea Food Consumption Behavior Survey.
 - **Tech Stack**: Codex, Firebase
 - **Release Date**: 2026-05-03
@@ -282,7 +282,7 @@
 
 ## 27. **[SERVICE] donot.die: Longevity Community**
 - **URL**: https://donot-die.web.app/
-- **Background**: A community platform for longevity enthusiasts to share and discuss scientific research on aging and health. Features DOI auto-recognition for academic papers, voting system, multi-language support (EN/KR), and anonymous posting.
+- **Background**: A community where people interested in longevity and health read and discuss aging research together.
 - **Tech Stack**: Claude Code, Firebase
 - **Release Date**: 2026-01-31
 
@@ -330,7 +330,7 @@
 
 ## 19. **[SERVICE] Antigravity Auto-Accept**
 - **URL**: https://github.com/UeberUeber/Antigravity-Auto-Accept
-- **Background**: VS Code extension for Google Antigravity that automatically accepts approval prompts every 500ms, eliminating repetitive manual clicks during AI-assisted development.
+- **Background**: A VS Code extension that automatically accepts Google Antigravity's approval prompts, removing the repetitive manual clicks of developing with AI.
 - **Tech Stack**: Google Antigravity
 - **Release Date**: 2026-01-05
 
@@ -361,7 +361,7 @@
 
 ## 14. **[SERVICE] Adobe Stock Generator**
 - **URL**: https://github.com/UeberUeber/adobe-stock-generator
-- **Background**: AI-powered image generation and management dashboard designed for the Google Antigravity workflow. Automates the full pipeline from prompt optimization and image generation to 4K upscaling (Real-ESRGAN) and Adobe Stock-compliant metadata/CSV generation.
+- **Background**: A dashboard that uses AI to automate the generation, enhancement and listing preparation needed to sell stock images. By tying the repetitive work into one pipeline, it tests whether one person can keep producing stock images steadily.
 - **Tech Stack**: Google Antigravity
 - **Release Date**: 2025-12-12
 
