@@ -22,20 +22,20 @@
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/shrimp-raising
 - **Apps in Toss URL**: https://tossminiapp.com/s/nLlkn1kt
-- **Background**: An experiment in turning the color genetics and grade rules of real shrimp breeding into a game system. Shrimp never die and nothing is sold by chance, so randomness comes only from breeding, aiming for a collection game that does not punish the player. Started in the Claude Code cloud environment, one source now builds the itch.io, ONE Store and Apps in Toss versions.
+- **Background**: A breeding simulator that turns the color genetics of real shrimp breeding into game rules. As traits pass down and every generation turns out different, it experiments with a reward system for long-term raising games and a fresh kind of fun for simulation games.
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-10-14
 
 ## 65. **[GAME] One Touch Drum**
 - **Platforms**: ONE Store, Apps in Toss
 - **Apps in Toss URL**: https://tossminiapp.com/s/nXFz4UFC
-- **Background**: An experiment in taking a game built in the Claude Code cloud environment to release on ONE Store and Apps in Toss. It asks whether a single tap anywhere on the screen is enough to teach rhythm, from quarter notes and rests to syncopation and triplets. Ads are kept off the play screen so they never break the beat.
+- **Background**: A simple game exploring what makes a rhythm game easy to pick up and hard to put down. It brings a range of music genres into the game as stages to progress through.
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-10-13
 
 ## 64. **[GAME] Naratmalssami**
 - **Video**: https://www.instagram.com/reel/DeR3ttnpADP/
-- **Background**: An idea first sketched in college and realized 17 years later: a game world made only of text, with no pictures. Objects appear as the shapes of Hangul letters; fire, for example, is the word "불". Released on Hangul Day, it explores what the Korean alphabet can express as a game.
+- **Background**: A game that draws its world only with the shapes of Hangul letters, with no pictures. An idea first imagined in college, it tries out what new possibilities for play and experience open up when objects are expressed as the letters themselves.
 - **Tech Stack**: HTML5, JavaScript, Claude
 - **First Public Release**: 2026-10-09
 
@@ -50,7 +50,7 @@
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/dance-king
 - **Apps in Toss URL**: https://tossminiapp.com/s/BtWvJXLr
-- **Background**: A prototype exploring what happens when a rhythm game's charts are not authored in advance but traded between player and CPU. The directions and timing the opponent actually presses become your chart, and the rhythm you tap becomes theirs, so each player both performs and composes. It tests where the fun sits between a skill contest and a dance show.
+- **Background**: A dance battle that started from asking what happens if a rhythm game's charts are not set in advance but made and traded between player and opponent. It tries to fit both the skill of following and the fun of creating rhythm into a single match.
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-09-28
 
@@ -68,7 +68,7 @@
 
 ## 59. **[GAME] Pinball Pang Pang**
 - **URL**: https://ueber.itch.io/pinball-pang-pang
-- **Background**: A pinball game where players launch a ball and keep it in play with flippers on a colorful fruit picnic table. Hit fruit and pass through the top lanes to score points. As the score rises, cherries, a ladybug, a picnic basket, multiball, and other features unlock in sequence.
+- **Background**: An experiment in a new kind of pinball where the objects and gimmicks on the table, and with them the game's mechanics, change as your score rises.
 - **Tech Stack**: Three.js, Claude, ChatGPT
 - **First Public Release**: 2026-09-26
 
