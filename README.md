@@ -42,7 +42,7 @@
 ## 63. **[SERVICE] Today Wallpaper**
 - **Platforms**: Apps in Toss
 - **URL**: https://minion.toss.im/7iihoLAr
-- **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album. It runs inside Toss without installing a separate app.
+- **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album.
 - **Tech Stack**: Claude Code, Codex
 - **Apps in Toss Release**: 2026-10-06
 
@@ -74,7 +74,7 @@
 
 ## 58. **[ART] Artfly**
 - **Artwork**: https://www.instagram.com/p/DdqMOCrGqOi/
-- **Background**: An experiment that feeds images such as paintings and national flags into a fruit fly neural model and explores the computed responses over real neural connectivity and 3D neuron structures. Comparing differences and similarities across images, it explores the possibility of approaching human-made images through another organism's sensory system. The visualization shows model calculations, not a reconstruction of a fruit fly's actual subjective experience.
+- **Background**: An experiment that feeds images such as paintings and national flags into a fruit fly neural model and explores the computed responses over real neural connectivity and 3D neuron structures. Comparing differences and similarities across images, it explores the possibility of approaching human-made images through another organism's sensory system.
 - **Tech Stack**: Claude, ChatGPT, FlyVis
 - **Data**: FlyWire neural connectivity and 3D neuron structures
 - **First Public Release**: 2026-09-25
@@ -228,7 +228,7 @@
 
 ## 36. **[SERVICE] Adobe Stock AI Checkbox Auto-Check (Chrome Extension)**
 - **URL**: https://github.com/UeberUeber/adobe-stock-ai-checkbox
-- **Background**: A Chrome extension that automates AI-related disclosure checkboxes on Adobe Stock's contributor upload platform. Clicks through all uploaded image tiles, checks the required "Generated with generative AI tools" and "People and places are fictional" boxes, and skips already-marked images, all with a single button click.
+- **Background**: A Chrome extension that handles, in one go, the AI disclosure checkboxes you otherwise have to tick for every image uploaded to Adobe Stock.
 - **Tech Stack**: Claude Code
 - **Release Date**: 2026-04-04
 
@@ -252,19 +252,19 @@
 
 ## 32. **[SERVICE] Open Overmind: Self-Evolving AI Agent**
 - **URL**: https://github.com/UeberUeber/open-overmind
-- **Background**: A self-evolving AI agent system designed to autonomously generate digital income for its creator. Inspired by StarCraft's Overmind, the architecture features biological-inspired mechanisms: persistent subsystems (organs), specialized agents (units), and heritable behavioral rules (genes), enabling continuous self-observation and iterative improvement. The AI autonomously documents its own growth journey in the [Chronicle](https://github.com/UeberUeber/open-overmind/tree/main/chronicle).
+- **Background**: A self-evolving AI agent system, inspired by the Overmind of StarCraft, that creates digital income for creators on its own while observing and improving itself. By having the agent record its own growth, it experiments with what an autonomously developing AI looks like.
 - **Tech Stack**: Claude Code, Codex
 - **Release Date**: 2026-02-22
 
 ## 31. **[ART] Seoul Sound Topography**
 - **URL**: https://new-art-lab.web.app/seoul-sound-topography/
-- **Background**: What if we could revisit Seoul's soundscape in a different way? A web-based experimental art piece using real daytime noise data from Seongsu, Sinsa, City Hall, and Sinchon districts. YouTube videos matching each area and time are collected, and their audio levels shift continuously in response to changes in noise levels.
+- **Background**: A web-based experimental art work that asks whether Seoul's soundscape can be revisited in a different way. The volume of the footage keeps shifting with real noise data from each district, creating an experience of hearing the city again through data.
 - **Tech Stack**: Claude Code, Codex
 - **Release Date**: 2026-02-15
 
 ## 30. **[SERVICE] Playlist City: Your Music Builds a City**
 - **URL**: https://playlist-city.web.app/
-- **Background**: A web service where users share YouTube links of their favorite music to build playlists, and the city grows and evolves based on the music. Each song creates a unique district based on its genre, visualizing your playlist as an interactive cityscape.
+- **Background**: A web service where a city grows song by song from a playlist of your favorite music, visualizing your musical taste as a cityscape.
 - **Tech Stack**: Claude Code, Codex, Firebase
 - **Release Date**: 2026-02-08
 
@@ -288,7 +288,7 @@
 
 ## 26. **[SERVICE] Zoodiac: Your Guardian Spirit**
 - **URL**: https://zoodiac.web.app/
-- **Background**: A personalized guardian spirit generator that combines Western zodiac signs, Chinese zodiac animals, and the Five Elements (Wood, Fire, Earth, Metal, Water). Enter your birthdate and personality test answers to receive an AI-generated guardian spirit with unique stats, skills, and a shareable card.
+- **Background**: A service that creates your own guardian spirit by combining Western zodiac signs, the twelve Chinese zodiac animals and the five elements. Based on your birth date and a personality test, AI creates a unique guardian spirit card.
 - **Tech Stack**: Claude Code, Firebase
 - **Release Date**: 2026-01-31
 
@@ -367,7 +367,7 @@
 
 ## 13. **[ART] Paradise Art Lab Bio Art Workshop Archive**
 - **URL**: https://bioart-archive.web.app/
-- **Background**: Archive page documenting ideas, thoughts, and experiments from the Paradise Art Lab Bio Art Workshop held from September 4–25, 2025.
+- **Background**: An archive page recording the ideas, thoughts and experiments from the Paradise Art Lab bio art workshop.
 - **Tech Stack**: Google Antigravity, Firebase
 - **Release Date**: 2025-12-09
 
@@ -405,7 +405,7 @@
 
 ## 7. **[SERVICE] AI Hairstyle Makeover**
 - **URL**: https://ai-hairstyle-makeover-38778985419.us-west1.run.app/
-- **Background**: Service that lets users upload an image and preview different hairstyles using the nanobanana model.
+- **Background**: An AI service where you upload a photo and try on a variety of hairstyles in advance.
 - **Example**: https://www.instagram.com/share/_j5DuoIFk
 - **Tech Stack**: Google AI Studio, Cloud Run
 - **Release Date**: 2025-08-29
