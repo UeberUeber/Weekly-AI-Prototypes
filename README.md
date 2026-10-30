@@ -56,13 +56,13 @@
 
 ## 61. **[GAME] The Mountain**
 - **URL**: https://ueber.itch.io/the-mountain
-- **Background**: A first-person hiking survival game in which players climb through forests and over rocks toward a summit 1,397 meters above sea level. Brief thoughts from the hiker convey thirst, fatigue, and cold in place of health bars or a map. Find water and food, grip rocks to climb, and take on the challenge of reaching the summit and making it back down alive.
+- **Background**: A first-person survival game about blazing your own route up a real-scale, trailless mountain, reaching the summit and making it back down alive. With no health bar or map, it tests whether the environment and movement alone can make you feel you are really inside a mountain.
 - **Tech Stack**: Three.js, Claude, ChatGPT
 - **First Public Release**: 2026-09-28
 
 ## 60. **[GAME] T-Rex Is Coming!**
 - **URL**: https://ueber.itch.io/trex-is-coming
-- **Background**: Escape a pursuing T-Rex by riding a handcar along the railway. Alternate the left and right handles to build speed and put distance between you and the dinosaur before it catches up. The rhythm of pumping the handles and the approaching T-Rex create the tension of the chase.
+- **Background**: A chase game where you escape a T-Rex by pumping a handcar's levers in turn. It tests whether pressing in rhythm, rather than mashing, can be fun in itself, and whether the tension holds once you get used to it.
 - **Tech Stack**: Three.js, Claude, ChatGPT
 - **First Public Release**: 2026-09-27
 
@@ -81,20 +81,20 @@
 
 ## 57. **[GAME] Wall Cats**
 - **URL**: https://ueber.itch.io/wall-cats
-- **Background**: Explore a neighborhood and gradually befriend the cats you find. Name them, reach out a hand, and offer food to build a relationship. Their locations change with real-world time, so follow their traces and consult your notebook as you look forward to the next encounter.
+- **Background**: A game about wandering the neighborhood like a detective and slowly growing closer to street cats. It carries the grammar of dating sims over to animals, testing whether a game where relationships and story build up little by little, rooted in the space of a neighborhood, can spark fun and response.
 - **Tech Stack**: Claude, ChatGPT
 - **First Public Release**: 2026-09-25
 
 ## 56. **[GAME] Crazy Train**
 - **URL**: https://ueber.itch.io/crazy-train
-- **Background**: Design your own looping railway around lakes, mountains, and rocks, then compete against two CPU engineers. Complete the track within the time limit and adjust your speed to avoid collisions or attack rival trains. The enclosed track area and the number of remaining cars affect your score, and you can switch between the full map and a locomotive view.
+- **Background**: A train game where you design your own looping railway and compete with rival trains. It set out to explore what fun and unexpected events emerge in a competitive co-op game, testing the idea first in single-player against computer opponents.
 - **Tech Stack**: Three.js, ChatGPT
 - **First Public Release**: 2026-09-21
 
 ## 55. **[GAME] Bow & Hold**
 - **Platforms**: Roblox
 - **Play Link**: [🎮 Play on Roblox](https://www.roblox.com/join/ki3g9)
-- **Background**: A cooperative Roblox defense game where players fire bows from the walls to stop incoming monsters. Work with your teammates to defend the walls against a variety of monsters.
+- **Background**: A Roblox co-op defense game where you and your teammates shoot arrows from the castle wall to hold off monsters. It started from noticing that Roblox had almost no co-op defense games where players aim the bow themselves.
 - **Tech Stack**: Roblox Studio, ChatGPT
 - **First Public Release**: 2026-09-19
 
@@ -102,7 +102,7 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss (개미키우기)
 - **itch.io URL**: https://ueber.itch.io/ant-simulator
 - **Apps in Toss URL**: https://minion.toss.im/9TUM0Sxu
-- **Background**: An observation-based ant colony simulation beginning with a queen digging her first tunnel. Watch ants move soil, carry food, and expand their nest; place food or bring rain to see the surrounding world change.
+- **Background**: An observation simulation of one ant colony from birth to decline, viewed like the underground cross-section of an ant farm. Instead of numbers that only go up, it focuses on ants reacting to the food and environment you set and actually moving soil so their nest grows.
 - **Tech Stack**: ChatGPT
 - **itch.io First Public Release**: 2026-09-16
 
@@ -117,20 +117,20 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
 - **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
 - **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
-- **Background**: A ten-stage memory card game. Remember briefly shown animal and fruit pictures, then match the hidden pairs. As the stages grow, more cards appear; the final result shows your time, attempts, and misses.
+- **Background**: A card-matching memory game made for seniors. It focuses on remembering accurately rather than tapping fast, and tests a short flow players can repeat without reading instructions.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **itch.io First Public Release**: 2026-09-11
 - **Apps in Toss Release**: 2026-09-16
 
 ## 51. **[GAME] East Wind Demo · Squirrel Hunt**
 - **URL**: https://ueber.itch.io/east-wind
-- **Background**: An action demo where players combine movement and combat skills to hunt ten squirrels in a small forest within three minutes. Control your distance with punches, the forward-moving Flash Fist, and the backward-dodging Afterimage Step, then collect the acorns dropped by defeated squirrels.
+- **Background**: The first demo of an action game that revives the art style and feel of early-2000s Korean MMORPGs. A short hunting demo tries out the feel of hunting by combining movement and combat skills.
 - **Tech Stack**: ChatGPT
 - **First Public Release**: 2026-09-09
 
 ## 50. **[GAME] Starlight Tavern**
 - **URL**: https://ueber.itch.io/fantasy-tavern
-- **Background**: A fantasy management game where players arrange rooms, hire staff, and grow a small tavern into a towering inn. Guests from different fantasy races have different needs for space and surroundings, shaping how players design and run the building. Goblin loans can fund expansion, but unpaid debts put the tavern at risk.
+- **Background**: A management game inspired by SimTower, where you run a fantasy inn seen as a building cross-section. It tests whether reading why guests of different races are unhappy, reshaping the building, and seeing the result in their behavior can be fun.
 - **Tech Stack**: Codex, JavaScript, HTML, CSS
 - **Release Date**: 2026-09-06
 
@@ -138,7 +138,7 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss (젤리 뽀잉)
 - **itch.io URL**: https://ueber.itch.io/jelly-squishy
 - **Apps in Toss URL**: https://minion.toss.im/FzrsSkJl
-- **Background**: A relaxing 3D jelly playground where players press, stretch, and release soft shapes on a plate. Choose from pudding, a gummy bear, slime, mochi, and Wiggle, each with different sizes, bounce, and sounds. Play with touch or a mouse, with no score or time limit.
+- **Background**: A small tactile playground with no score or time limit, where you press, stretch and release jelly to enjoy its motion and sound. It explores whether simply touching something, with no goal, can be enjoyable on its own.
 - **Tech Stack**: Codex, Three.js, JavaScript
 - **itch.io First Public Release**: 2026-09-06
 
@@ -152,7 +152,7 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss (오징어 슝)
 - **itch.io URL**: https://ueber.itch.io/squid-zoom
 - **Apps in Toss URL**: https://minion.toss.im/JQTnkwm6
-- **Background**: A vertical mobile avoidance game where a small squid shifts between three currents to weave past coral, rocks, and seagrass while reacting to ambushes from moray eels and swordfish. The current accelerates as the distance increases, demanding faster route choices.
+- **Background**: A simple one-touch dodging game built by reusing the assets of an earlier game, My Little Squid. A small squid switches currents as it dives deeper into the sea.
 - **Tech Stack**: Codex, JavaScript, CSS, Vite
 - **itch.io First Public Release**: 2026-09-02
 
@@ -160,7 +160,7 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/zinball
 - **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
-- **Background**: A pinball zombie-defense game where players use flippers and steel balls to protect their base from incoming zombies. Between stages, upgrade the number and speed of balls and place bumpers to reshape both ball trajectories and zombie routes.
+- **Background**: A game that combines pinball with zombie defense. It tests whether knocking the ball back to wipe out a zombie horde just before it breaks through can be the core thrill, and whether upgrading balls and placing bumpers become distinct strategies.
 - **Tech Stack**: Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-27
 
@@ -168,14 +168,14 @@
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
 - **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
-- **Background**: A cozy physics-based merge puzzle set in a small greenhouse. Players combine eggs, caterpillars, and pupae to grow insects while using leaves and breakable rocks to manage limited space. Return the required number of fully grown insects to nature to advance to the next greenhouse.
+- **Background**: A physics merge puzzle that adds wriggling, flying insects to the familiar drop-and-merge loop of watermelon-style games. Unlike merge games whose pieces barely move, each creature moves differently at each growth stage, testing whether a familiar structure can still produce an ever-changing board.
 - **Tech Stack**: Claude Code, Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-07
 - **Apps in Toss Release**: 2026-08-20
 
 ## 44. **[GAME] Slime Choir**
 - **URL**: https://ueber.itch.io/slime-choir
-- **Background**: A cozy 3D ear-training puzzle game where players listen to slimes with different pitches and voice textures, arrange them on pedestals, and recreate target waveforms to open sealed crystal gates. Flowers, pebbles, drums, shells, and lanterns modify each voice's pitch, length, echo, and volume across four chapters and 40 stages.
+- **Background**: A 3D ear-training puzzle where you listen to slimes' voices and place them to match a target waveform. By mapping pitch and timbre to each slime's color and shape, it aims for puzzles you can reason out with both ears and eyes, without explanations.
 - **Tech Stack**: Codex, Three.js
 - **Release Date**: 2026-07-31
 
@@ -187,7 +187,7 @@
 
 ## 42. **[GAME] My Little Squid**
 - **URL**: https://ueber.itch.io/my-little-squid
-- **Background**: A pixel-art survival game where players explore a living ocean as a young squid. Use water-jet propulsion, aim feeding tentacles with the mouse, grow by hunting prey, and camouflage as reef life to avoid danger.
+- **Background**: A pixel-art ocean survival game where you start as a small squid and turn the food chain upside down. Rather than adding features, it focused on first proving the core fun of hunting to grow and camouflaging to survive.
 - **Tech Stack**: Codex
 - **Release Date**: 2026-07-13
 
@@ -222,7 +222,7 @@
 
 ## 37. **[GAME] Do-Pamine**
 - **URL**: https://ueber.itch.io/do-pamine
-- **Background**: A one-tap arcade prototype exploring game-feel psychology — anticipation, variable rewards, and player agency. Players break bricks, collect orbs, upgrade skills, and gamble for risky payouts via roulette outcomes and run-altering relics across a 100-stage progression.
+- **Background**: A one-tap arcade prototype exploring the psychology of game feel, such as anticipation, variable rewards and player agency. It experiments with chasing risky payoffs through upgrades, roulette and relics that change the run.
 - **Tech Stack**: Claude Code, Codex, Phaser
 - **Release Date**: 2026-04-26
 
@@ -312,7 +312,7 @@
 
 ## 22. **[GAME] AI NPC Agent**
 - **URL**: https://github.com/UeberUeber/ai-npc-agent-gemini
-- **Background**: Autonomous NPC simulation inspired by Stanford's "Generative Agents: Interactive Simulacra of Human Behavior" paper. Each NPC has unique personality, memory, and schedule, enabling natural conversations with players. Implements and extends core mechanisms from the paper including memory stream-based retrieval, reflection, planning, and emotion inference. Additional features include auto-wake for sleeping NPCs, schedule overrun detection during conversations, dynamic replanning after 30+ minute dialogues, and a Thought memory type for inner reasoning. Requires Gemini API key registration to run in browser.
+- **Background**: An autonomous NPC simulation based on Stanford's Generative Agents paper, where NPCs with their own personality, memory and schedule talk naturally with the player. It implements and extends memory retrieval, reflection, planning and emotion inference for game NPCs.
 - **Tech Stack**: Claude Code
 - **Release Date**: 2026-01-18
 
