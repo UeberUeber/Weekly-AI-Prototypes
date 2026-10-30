@@ -2,20 +2,14 @@
 
 **English** | [한국어](README.ko.md)
 
-## 68. **[GAME] Naratmalssami**
-- **Video**: https://www.instagram.com/reel/DeR3ttnpADP/
-- **Background**: An idea first sketched in college and realized 17 years later: a game world made only of text, with no pictures. Objects appear as the shapes of Hangul letters; fire, for example, is the word "불". Released on Hangul Day, it explores what the Korean alphabet can express as a game.
-- **Tech Stack**: HTML5, JavaScript, Claude
-- **First Public Release**: 2026-10-09
-
-## 67. **[GAME] Box Breaker**
-- **Platforms**: itch.io, ONE Store
+## 68. **[GAME] Box Breaker**
+- **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
 - **Background**: A prototype testing whether manual tapping and automation can both stay meaningful in an incremental game. Its design notes set hypotheses such as the first automatic hammer being a turning point and manual taps keeping their value after automation. The core game has no ads or payments; each store channel plugs in rewarded ads and a fever pass, so the itch.io, ONE Store and Apps in Toss versions come from one codebase.
 - **Tech Stack**: HTML5, JavaScript, Codex, Claude Code
 - **First Public Release**: 2026-10-27
 
-## 66. **[GAME] Deepwater Fishing**
+## 67. **[GAME] Deepwater Fishing**
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/deepwater-fishing
 - **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
@@ -23,7 +17,7 @@
 - **Tech Stack**: HTML5, JavaScript, Claude Code, Codex
 - **First Public Release**: 2026-10-20
 
-## 65. **[GAME] Shrimp Raising**
+## 66. **[GAME] Shrimp Raising**
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/shrimp-raising
 - **Apps in Toss URL**: https://tossminiapp.com/s/nLlkn1kt
@@ -31,27 +25,33 @@
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-10-14
 
-## 64. **[GAME] One Touch Drum**
+## 65. **[GAME] One Touch Drum**
 - **Platforms**: ONE Store, Apps in Toss
 - **Apps in Toss URL**: https://tossminiapp.com/s/nXFz4UFC
 - **Background**: An experiment in taking a game built in the Claude Code cloud environment to release on ONE Store and Apps in Toss. It asks whether a single tap anywhere on the screen is enough to teach rhythm, from quarter notes and rests to syncopation and triplets. Ads are kept off the play screen so they never break the beat.
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-10-13
 
-## 63. **[GAME] Dance King**
+## 64. **[GAME] Naratmalssami**
+- **Video**: https://www.instagram.com/reel/DeR3ttnpADP/
+- **Background**: An idea first sketched in college and realized 17 years later: a game world made only of text, with no pictures. Objects appear as the shapes of Hangul letters; fire, for example, is the word "불". Released on Hangul Day, it explores what the Korean alphabet can express as a game.
+- **Tech Stack**: HTML5, JavaScript, Claude
+- **First Public Release**: 2026-10-09
+
+## 63. **[SERVICE] Today Wallpaper**
+- **Platforms**: Apps in Toss
+- **URL**: https://minion.toss.im/7iihoLAr
+- **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album. It runs inside Toss without installing a separate app.
+- **Tech Stack**: Claude Code, Codex
+- **Apps in Toss Release**: 2026-10-06
+
+## 62. **[GAME] Dance King**
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/dance-king
 - **Apps in Toss URL**: https://tossminiapp.com/s/BtWvJXLr
 - **Background**: A prototype exploring what happens when a rhythm game's charts are not authored in advance but traded between player and CPU. The directions and timing the opponent actually presses become your chart, and the rhythm you tap becomes theirs, so each player both performs and composes. It tests where the fun sits between a skill contest and a dance show.
 - **Tech Stack**: HTML5, JavaScript, Claude Code
 - **First Public Release**: 2026-09-28
-
-## 62. **[SERVICE] Today Wallpaper**
-- **Platforms**: Apps in Toss
-- **URL**: https://minion.toss.im/7iihoLAr
-- **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album. It runs inside Toss without installing a separate app.
-- **Tech Stack**: Claude Code, Codex
-- **Apps in Toss Release**: 2026-10-06
 
 ## 61. **[GAME] The Mountain**
 - **URL**: https://ueber.itch.io/the-mountain

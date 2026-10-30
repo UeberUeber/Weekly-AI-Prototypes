@@ -2,20 +2,14 @@
 
 [English](README.md) | **한국어**
 
-## 68. **[게임] 나랏말싸미**
-- **영상**: https://www.instagram.com/reel/DeR3ttnpADP/
-- **배경**: 대학 시절 처음 스케치한 지 17년 만에 구현한 아이디어로, 그림 없이 글자만으로 이루어진 게임 세계를 실험했습니다. 사물을 한글 글자의 모양으로 나타내, 예를 들어 불은 "불"이라는 글자로 표현됩니다. 한글날에 맞춰 한글이 가진 표현 가능성을 게임으로 탐색했습니다.
-- **기술 스택**: HTML5, JavaScript, Claude
-- **최초 공개일**: 2026-10-09
-
-## 67. **[게임] 상자 깨기 (Box Breaker)**
-- **플랫폼**: itch.io, 원스토어
+## 68. **[게임] 상자 깨기 (Box Breaker)**
+- **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
 - **배경**: 증분형 게임에서 직접 두드리는 손맛과 자동화가 둘 다 의미를 가질 수 있는지 시험한 프로토타입입니다. 기획 단계에서 자동 망치 첫 구매가 전환점이 되는지, 자동화 뒤에도 직접 탭이 가치를 갖는지 같은 가설을 세웠습니다. 원본에는 광고와 결제가 없고 채널마다 보상형 광고와 피버 패스를 끼워 넣는 구조로, 코드 하나에서 itch.io, 원스토어, 토스판을 만들었습니다.
 - **기술 스택**: HTML5, JavaScript, Codex, Claude Code
 - **최초 공개일**: 2026-10-27
 
-## 66. **[게임] 심해낚시 (Deepwater Fishing)**
+## 67. **[게임] 심해낚시 (Deepwater Fishing)**
 - **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/deepwater-fishing
 - **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
@@ -23,7 +17,7 @@
 - **기술 스택**: HTML5, JavaScript, Claude Code, Codex
 - **최초 공개일**: 2026-10-20
 
-## 65. **[게임] 새우 키우기 (Shrimp Raising)**
+## 66. **[게임] 새우 키우기 (Shrimp Raising)**
 - **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/shrimp-raising
 - **Apps in Toss URL**: https://tossminiapp.com/s/nLlkn1kt
@@ -31,27 +25,33 @@
 - **기술 스택**: HTML5, JavaScript, Claude Code
 - **최초 공개일**: 2026-10-14
 
-## 64. **[게임] 원터치 드럼 (One Touch Drum)**
+## 65. **[게임] 원터치 드럼 (One Touch Drum)**
 - **플랫폼**: 원스토어, Apps in Toss
 - **Apps in Toss URL**: https://tossminiapp.com/s/nXFz4UFC
 - **배경**: Claude Code 클라우드 환경에서 만든 게임을 원스토어와 토스에 출시해 본 실험작입니다. 화면 아무 곳이나 한 번 누르는 입력 하나로 4분음표와 쉼표부터 싱코페이션, 셋잇단음까지 리듬 감각을 익히게 할 수 있는지 시험했습니다. 박자가 끊기지 않도록 광고는 플레이 화면 밖에만 두었습니다.
 - **기술 스택**: HTML5, JavaScript, Claude Code
 - **최초 공개일**: 2026-10-13
 
-## 63. **[게임] 댄스 킹 (Dance King)**
+## 64. **[게임] 나랏말싸미**
+- **영상**: https://www.instagram.com/reel/DeR3ttnpADP/
+- **배경**: 대학 시절 처음 스케치한 지 17년 만에 구현한 아이디어로, 그림 없이 글자만으로 이루어진 게임 세계를 실험했습니다. 사물을 한글 글자의 모양으로 나타내, 예를 들어 불은 "불"이라는 글자로 표현됩니다. 한글날에 맞춰 한글이 가진 표현 가능성을 게임으로 탐색했습니다.
+- **기술 스택**: HTML5, JavaScript, Claude
+- **최초 공개일**: 2026-10-09
+
+## 63. **[서비스] 오늘의 배경화면 (Today Wallpaper)**
+- **플랫폼**: Apps in Toss
+- **URL**: https://minion.toss.im/7iihoLAr
+- **배경**: 다양한 일러스트 배경화면을 골라 사진첩에 바로 저장할 수 있는 무료 배경화면 서비스입니다. 별도 앱 설치 없이 토스 안에서 이용할 수 있습니다.
+- **기술 스택**: Claude Code, Codex
+- **Apps in Toss 출시일**: 2026-10-06
+
+## 62. **[게임] 댄스 킹 (Dance King)**
 - **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/dance-king
 - **Apps in Toss URL**: https://tossminiapp.com/s/BtWvJXLr
 - **배경**: 리듬 게임의 악보를 미리 만들어 두지 않고 플레이어와 CPU가 서로 주고받게 하면 어떤 대결이 되는지 실험한 프로토타입입니다. 상대가 실제로 누른 방향과 간격이 내 악보가 되고, 내가 친 리듬이 상대의 악보가 되어 누구나 연주자이자 출제자가 됩니다. 실력 승부와 춤 공연 사이 어디에서 재미가 생기는지를 살펴봤습니다.
 - **기술 스택**: HTML5, JavaScript, Claude Code
 - **최초 공개일**: 2026-09-28
-
-## 62. **[서비스] 오늘의 배경화면 (Today Wallpaper)**
-- **플랫폼**: Apps in Toss
-- **URL**: https://minion.toss.im/7iihoLAr
-- **배경**: 다양한 일러스트 배경화면을 골라 사진첩에 바로 저장할 수 있는 무료 배경화면 서비스입니다. 별도 앱 설치 없이 토스 안에서 이용할 수 있습니다.
-- **기술 스택**: Claude Code, Codex
-- **Apps in Toss 출시일**: 2026-10-06
 
 ## 61. **[게임] 산 (The Mountain)**
 - **URL**: https://ueber.itch.io/the-mountain
