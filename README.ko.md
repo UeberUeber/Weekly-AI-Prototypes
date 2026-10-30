@@ -14,7 +14,7 @@
 - **플랫폼**: itch.io, 원스토어, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/deepwater-fishing
 - **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
-- **배경**: 생물 42종의 실제 미끼 궁합과 활동 시간대를 웹 자료로 조사해 반영한 낚시 게임입니다. 낚는 손맛과 인크리멘탈 성장, 해역 선택이 플레이어의 자발적인 재방문으로 이어지는지를 실험했습니다. ChatGPT Sites에서 시작한 프로젝트를 GitHub로 옮겨 이어 개발했습니다.
+- **배경**: 낚는 손맛과 증분형 성장을 결합하고, 그 바탕을 실제 바다 생물의 습성에 둔 낚시 게임입니다. 생물마다 실제로 잘 무는 미끼와 활동 시간대를 따르게 해, 어떤 미끼로 언제 어느 바다에 나갈지 고르는 선택이 다시 출항하게 만드는 이유가 되도록 고민했습니다.
 - **기술 스택**: HTML5, JavaScript, Claude Code, Codex
 - **최초 공개일**: 2026-10-20
 

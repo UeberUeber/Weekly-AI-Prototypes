@@ -14,7 +14,7 @@
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/deepwater-fishing
 - **Apps in Toss URL**: https://tossminiapp.com/s/5on5Unzt
-- **Background**: A fishing game whose bait preferences and active hours follow web research on the real behavior of 42 species. It tests whether the feel of the catch, incremental growth and the choice of sea area can bring players back on their own. Development began as a ChatGPT Sites project and continued after the source was moved to GitHub.
+- **Background**: A fishing game that pairs the feel of landing a catch with incremental growth, built on how real sea creatures behave. Each species bites on the baits and at the hours it does in the wild, so deciding what to use, when, and which sea to sail to becomes the choice that brings players back.
 - **Tech Stack**: HTML5, JavaScript, Claude Code, Codex
 - **First Public Release**: 2026-10-20
 
