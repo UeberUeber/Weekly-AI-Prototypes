@@ -2,6 +2,26 @@
 
 **English** | [한국어](README.ko.md)
 
+## 72. **[GAME] Gulp Slime**
+
+- **Background**: A slime roguelike where you swallow enemies and grow by filling your body with their loot. Arranging and combining items in limited space makes choosing what to keep and what to digest part of your strategy for combat and growth.
+- **Play Link**: https://ueber.itch.io/gulp-slime
+
+## 71. **[GAME] Gacha Drop Defense**
+
+- **Background**: A defense game that turns the controls of a claw machine into a way to deploy troops and magic onto the battlefield. It combines the chance of not knowing what you will pick up with the strategy of choosing where to drop it.
+- **Play Link**: https://ueber.itch.io/capsule-defence
+
+## 70. **[GAME] World Tree**
+
+- **Background**: An incremental idle game about growing a world tree, combined with defending its forest. Resource producers also serve as troops, and stardust earned through rebirth goes into a growth tree that lets you choose how to develop next.
+
+## 69. **[SERVICE] Todo Archive (Achievement To-Do List)**
+
+- **Background**: A task management service that turns completed tasks into a growing record of achievements and progress. Repeating activities evolves trophies and builds related stats, leaving a visible record of small everyday accomplishments.
+- **Service Link**: https://ueber.itch.io/achievement-todo-list
+- **Apps in Toss URL**: https://tossminiapp.com/s/n0xRbwm8
+
 ## 68. **[GAME] Box Breaker**
 - **Platforms**: itch.io, ONE Store, Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/box-breaker
