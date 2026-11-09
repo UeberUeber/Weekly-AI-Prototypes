@@ -180,7 +180,7 @@
 ## 46. **[GAME] ZINBALL**
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/zinball
-- **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
+- **Apps in Toss URL**: https://tossminiapp.com/s/L5Hxf4dC
 - **Background**: A game that combines pinball with zombie defense. It tests whether knocking the ball back to wipe out a zombie horde just before it breaks through can be the core thrill, and whether upgrading balls and placing bumpers become distinct strategies.
 - **Tech Stack**: Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-27

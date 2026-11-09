@@ -180,7 +180,7 @@
 ## 46. **[게임] ZINBALL**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/zinball
-- **Apps in Toss URL**: https://minion.toss.im/bBHzIa7j
+- **Apps in Toss URL**: https://tossminiapp.com/s/L5Hxf4dC
 - **배경**: 핀볼과 좀비 디펜스를 결합한 게임입니다. 공을 되받아 침투 직전의 좀비 무리를 쓸어 내는 순간이 핵심 재미가 되는지, 그리고 공 강화와 범퍼 배치가 서로 다른 전략이 되는지 실험했습니다.
 - **기술 스택**: Codex, JavaScript
 - **itch.io 최초 공개일**: 2026-08-27
