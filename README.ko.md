@@ -188,7 +188,7 @@
 ## 45. **[게임] Wiggle Pop**
 - **플랫폼**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
-- **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
+- **Apps in Toss URL**: https://tossminiapp.com/s/Je90p5Rn
 - **배경**: 수박 게임처럼 익숙한 떨어뜨려 합치기 퍼즐에 꿈틀대고 날아다니는 곤충을 더한 물리 머지 퍼즐입니다. 조각이 거의 움직이지 않는 기존 머지 게임과 달리 각 개체가 성장 단계에 따라 다르게 움직이게 해, 익숙한 구조 속에서도 변화무쌍한 판이 만들어지는지 실험했습니다.
 - **기술 스택**: Claude Code, Codex, JavaScript
 - **itch.io 최초 공개일**: 2026-08-07

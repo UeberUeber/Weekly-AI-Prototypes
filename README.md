@@ -188,7 +188,7 @@
 ## 45. **[GAME] Wiggle Pop**
 - **Platforms**: itch.io (HTML5), Apps in Toss
 - **itch.io URL**: https://ueber.itch.io/wiggle-pop
-- **Apps in Toss URL**: https://minion.toss.im/9EFfBOSD
+- **Apps in Toss URL**: https://tossminiapp.com/s/Je90p5Rn
 - **Background**: A physics merge puzzle that adds wriggling, flying insects to the familiar drop-and-merge loop of watermelon-style games. Unlike merge games whose pieces barely move, each creature moves differently at each growth stage, testing whether a familiar structure can still produce an ever-changing board.
 - **Tech Stack**: Claude Code, Codex, JavaScript
 - **itch.io First Public Release**: 2026-08-07
