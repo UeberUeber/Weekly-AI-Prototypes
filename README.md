@@ -62,7 +62,7 @@
 
 ## 63. **[SERVICE] Today Wallpaper**
 - **Platforms**: Apps in Toss
-- **URL**: https://minion.toss.im/7iihoLAr
+- **URL**: https://tossminiapp.com/s/X2wumq2m
 - **Background**: A free wallpaper service for browsing a variety of illustrated wallpapers and saving them straight to your photo album.
 - **Tech Stack**: Claude Code, Codex
 - **Apps in Toss Release**: 2026-10-06

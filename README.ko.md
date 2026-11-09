@@ -62,7 +62,7 @@
 
 ## 63. **[서비스] 오늘의 배경화면 (Today Wallpaper)**
 - **플랫폼**: Apps in Toss
-- **URL**: https://minion.toss.im/7iihoLAr
+- **URL**: https://tossminiapp.com/s/X2wumq2m
 - **배경**: 다양한 일러스트 배경화면을 골라 사진첩에 바로 저장할 수 있는 무료 배경화면 서비스입니다.
 - **기술 스택**: Claude Code, Codex
 - **Apps in Toss 출시일**: 2026-10-06
