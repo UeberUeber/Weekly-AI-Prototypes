@@ -158,7 +158,7 @@
 ## 49. **[게임] Jelly Squishy**
 - **플랫폼**: itch.io (HTML5), Apps in Toss (젤리 뽀잉)
 - **itch.io URL**: https://ueber.itch.io/jelly-squishy
-- **Apps in Toss URL**: https://minion.toss.im/FzrsSkJl
+- **Apps in Toss URL**: https://tossminiapp.com/s/9amY7Icr
 - **배경**: 점수도 시간 제한도 없이 젤리를 누르고 당겼다 놓으며 움직임과 소리를 즐기는 작은 촉감 놀이터입니다. 목표 없이 만지는 행위만으로도 즐거울 수 있는지 탐구했습니다.
 - **기술 스택**: Codex, Three.js, JavaScript
 - **itch.io 최초 공개일**: 2026-09-06
