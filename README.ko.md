@@ -172,7 +172,7 @@
 ## 47. **[게임] 오징어 슝! (Squid Zoom!)**
 - **플랫폼**: itch.io (HTML5), Apps in Toss (오징어 슝)
 - **itch.io URL**: https://ueber.itch.io/squid-zoom
-- **Apps in Toss URL**: https://minion.toss.im/JQTnkwm6
+- **Apps in Toss URL**: https://tossminiapp.com/s/D3VXnwdC
 - **배경**: 앞서 만든 My Little Squid의 리소스를 재활용해 만든 간단한 원터치 회피 게임입니다. 작은 오징어가 물살을 갈아타며 바다 깊이 잠수합니다.
 - **기술 스택**: Codex, JavaScript, CSS, Vite
 - **itch.io 최초 공개일**: 2026-09-02

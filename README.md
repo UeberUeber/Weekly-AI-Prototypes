@@ -172,7 +172,7 @@
 ## 47. **[GAME] Squid Zoom!**
 - **Platforms**: itch.io (HTML5), Apps in Toss (오징어 슝)
 - **itch.io URL**: https://ueber.itch.io/squid-zoom
-- **Apps in Toss URL**: https://minion.toss.im/JQTnkwm6
+- **Apps in Toss URL**: https://tossminiapp.com/s/D3VXnwdC
 - **Background**: A simple one-touch dodging game built by reusing the assets of an earlier game, My Little Squid. A small squid switches currents as it dives deeper into the sea.
 - **Tech Stack**: Codex, JavaScript, CSS, Vite
 - **itch.io First Public Release**: 2026-09-02
