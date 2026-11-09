@@ -129,7 +129,7 @@
 
 ## 53. **[SERVICE] Flower Sangsik**
 - **Platforms**: Apps in Toss
-- **URL**: https://minion.toss.im/v86scx6b
+- **URL**: https://tossminiapp.com/s/xn5kP6Ox
 - **Background**: A flower-language quiz made for Korean seniors. Built on market research into Apps in Toss services, it experiments with a service seniors can enjoy without any pressure.
 - **Tech Stack**: ChatGPT
 - **Project Start Date**: 2026-09-12 — based on the GitHub repository creation date
