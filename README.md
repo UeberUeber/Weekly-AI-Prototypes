@@ -122,7 +122,7 @@
 ## 54. **[GAME] Ant Simulator**
 - **Platforms**: itch.io (HTML5), Apps in Toss (개미키우기)
 - **itch.io URL**: https://ueber.itch.io/ant-simulator
-- **Apps in Toss URL**: https://minion.toss.im/9TUM0Sxu
+- **Apps in Toss URL**: https://tossminiapp.com/s/1dV8eNa1
 - **Background**: An observation simulation of one ant colony from birth to decline, viewed like the underground cross-section of an ant farm. Instead of numbers that only go up, it focuses on ants reacting to the food and environment you set and actually moving soil so their nest grows.
 - **Tech Stack**: ChatGPT
 - **itch.io First Public Release**: 2026-09-16

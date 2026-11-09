@@ -122,7 +122,7 @@
 ## 54. **[게임] 개미키우기 (Ant Simulator)**
 - **플랫폼**: itch.io (HTML5), Apps in Toss (개미키우기)
 - **itch.io URL**: https://ueber.itch.io/ant-simulator
-- **Apps in Toss URL**: https://minion.toss.im/9TUM0Sxu
+- **Apps in Toss URL**: https://tossminiapp.com/s/1dV8eNa1
 - **배경**: 개미 사육 키트의 땅속 단면을 들여다보듯 군체 하나가 생겨나고 쇠퇴하기까지를 지켜보는 관찰 시뮬레이션입니다. 숫자만 오르는 연출 대신, 내가 놓은 먹이와 환경에 개미가 반응하고 흙을 실제로 옮겨 집이 자라는 모습을 보여 주는 데 집중했습니다.
 - **기술 스택**: ChatGPT
 - **itch.io 최초 공개일**: 2026-09-16
