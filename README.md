@@ -15,6 +15,7 @@
 ## 70. **[GAME] World Tree**
 
 - **Background**: An incremental idle game about growing a world tree, combined with defending its forest. Resource producers also serve as troops, and stardust earned through rebirth goes into a growth tree that lets you choose how to develop next.
+- **Apps in Toss URL**: https://tossminiapp.com/s/Pf8h0Jok
 
 ## 69. **[SERVICE] Todo Archive (Achievement To-Do List)**
 
