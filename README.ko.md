@@ -137,7 +137,7 @@
 ## 52. **[게임] 매일 기억 짝맞추기 (Daily Memory Pairs)**
 - **플랫폼**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
 - **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
-- **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
+- **Apps in Toss URL**: https://tossminiapp.com/s/NbPv38Yl
 - **배경**: 시니어를 위해 만든 카드 짝맞추기 게임입니다. 빨리 누르기보다 정확히 기억하는 데 초점을 두고, 설명을 읽지 않아도 반복할 수 있는 짧은 흐름을 실험했습니다.
 - **기술 스택**: HTML, CSS, JavaScript
 - **itch.io 최초 공개일**: 2026-09-11

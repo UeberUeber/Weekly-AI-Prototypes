@@ -137,7 +137,7 @@
 ## 52. **[GAME] Daily Memory Pairs**
 - **Platforms**: itch.io (HTML5), Apps in Toss (기억해 짝맞추기)
 - **itch.io URL**: https://ueber.itch.io/daily-memory-pairs
-- **Apps in Toss URL**: https://minion.toss.im/NxWkOuux
+- **Apps in Toss URL**: https://tossminiapp.com/s/NbPv38Yl
 - **Background**: A card-matching memory game made for seniors. It focuses on remembering accurately rather than tapping fast, and tests a short flow players can repeat without reading instructions.
 - **Tech Stack**: HTML, CSS, JavaScript
 - **itch.io First Public Release**: 2026-09-11
