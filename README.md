@@ -2,6 +2,14 @@
 
 **English** | [한국어](README.ko.md)
 
+## 73. **[GAME] POCKET SKY ARCADE (뿅뿅 비행단)**
+
+- **Platforms**: itch.io (HTML5), ONE Store
+- **itch.io URL**: https://ueber.itch.io/pocket-sky-arcade
+- **ONE Store URL**: https://onesto.re/oneplay/0001012459
+- **Background**: A pixel-art shooter where grazing enemy bullets charges Fever and chaining enemy takedowns raises your score multiplier. Pick a craft with a firing pattern that suits you, then weave through bullets and keep your chain going for a high score.
+- **itch.io First Release**: 2026-11-13
+
 ## 72. **[GAME] Gulp Slime**
 
 - **Background**: A slime roguelike where you swallow enemies and grow by filling your body with their loot. Arranging and combining items in limited space makes choosing what to keep and what to digest part of your strategy for combat and growth.
@@ -101,7 +109,10 @@
 - **First Public Release**: 2026-09-25
 
 ## 57. **[GAME] Wall Cats**
-- **URL**: https://ueber.itch.io/wall-cats
+- **Platforms**: itch.io (HTML5), Apps in Toss, ONE Store
+- **itch.io URL**: https://ueber.itch.io/wall-cats
+- **Apps in Toss URL**: https://tossminiapp.com/s/L1b37DBq
+- **ONE Store (Android)**: Open the ONE Store app and look for `고양이 길들이기` in AI Games to play without a separate install.
 - **Background**: A game about wandering the neighborhood like a detective and slowly growing closer to street cats. It carries the grammar of dating sims over to animals, testing whether a game where relationships and story build up little by little, rooted in the space of a neighborhood, can spark fun and response.
 - **Tech Stack**: Claude, ChatGPT
 - **First Public Release**: 2026-09-25

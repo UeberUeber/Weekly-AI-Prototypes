@@ -240,20 +240,20 @@
     <div class="container">
         <header>
             <h1>📊 Weekly AI Prototypes Analytics</h1>
-            <p class="subtitle">2025년 5월 ~ 2026년 10월 프로젝트 카테고리 분석</p>
+            <p class="subtitle">2025년 5월 ~ 2026년 11월 프로젝트 카테고리 분석</p>
         </header>
 
         <div class="stats-grid">
             <div class="stat-card total">
-                <div class="stat-number">68</div>
+                <div class="stat-number">73</div>
                 <div class="stat-label">Total Projects</div>
             </div>
             <div class="stat-card game">
-                <div class="stat-number">31</div>
+                <div class="stat-number">35</div>
                 <div class="stat-label">🎮 Games</div>
             </div>
             <div class="stat-card service">
-                <div class="stat-number">26</div>
+                <div class="stat-number">27</div>
                 <div class="stat-label">⚙️ Services</div>
             </div>
             <div class="stat-card art">
@@ -296,7 +296,8 @@
 
         <div class="project-list">
             <h2>📋 전체 프로젝트 목록</h2>
-            <p>날짜는 최초 공개일 기준이며, 꽃말 상식은 GitHub 저장소 생성일(2026-09-12)을 사용합니다. / Dates use first public release, except Flower Sangsik, which uses its GitHub repository creation date (2026-09-12).</p>
+            <p>날짜는 확인된 최초 공개일 기준이며, 꽃말 상식은 GitHub 저장소 생성일(2026-09-12)을 사용합니다. 공개일이 확인되지 않은 세계수 키우기는 전체 집계에 포함되며 월별 차트에서는 제외됩니다.</p>
+            <p>Dates use the earliest verified public release, except Flower Sangsik, which uses its GitHub repository creation date (2026-09-12). World Tree counts toward the totals and will appear in the monthly chart once its release date is confirmed.</p>
             <table class="project-table">
                 <thead>
                     <tr>
@@ -382,11 +383,17 @@
             {"id": 65, "name": "One Touch Drum", "category": "GAME", "date": "2026-10-13", "month": "2026-10"},
             {"id": 66, "name": "Shrimp Raising", "category": "GAME", "date": "2026-10-14", "month": "2026-10"},
             {"id": 67, "name": "Deepwater Fishing", "category": "GAME", "date": "2026-10-20", "month": "2026-10"},
-            {"id": 68, "name": "Box Breaker", "category": "GAME", "date": "2026-10-27", "month": "2026-10"}
+            {"id": 68, "name": "Box Breaker", "category": "GAME", "date": "2026-10-27", "month": "2026-10"},
+            {"id": 69, "name": "Todo Archive (Achievement To-Do List)", "category": "SERVICE", "date": "2026-09-28", "month": "2026-09"},
+            {"id": 70, "name": "World Tree", "category": "GAME", "date": null, "month": null},
+            {"id": 71, "name": "Gacha Drop Defense", "category": "GAME", "date": "2026-11-07", "month": "2026-11"},
+            {"id": 72, "name": "Gulp Slime", "category": "GAME", "date": "2026-11-08", "month": "2026-11"},
+            {"id": 73, "name": "POCKET SKY ARCADE", "category": "GAME", "date": "2026-11-13", "month": "2026-11"}
         ];
 
-        const months = ['2025-05', '2025-06', '2025-08', '2025-10', '2025-11', '2025-12', '2026-01', '2026-02', '2026-03', '2026-04', '2026-05', '2026-06', '2026-07', '2026-08', '2026-09', '2026-10'];
-        const monthLabels = ['May', 'Jun', 'Aug', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'];
+        const months = [...new Set(projects.map(project => project.month).filter(Boolean))].sort();
+        const monthFormatter = new Intl.DateTimeFormat('en', { month: 'short', timeZone: 'UTC' });
+        const monthLabels = months.map(month => monthFormatter.format(new Date(`${month}-01`)));
 
         // Build individual stacked datasets - each project is its own dataset layer
         const colors = {
@@ -527,7 +534,7 @@
                 <td>${project.id}</td>
                 <td>${project.name}</td>
                 <td><span class="category-badge ${project.category.toLowerCase()}">${project.category}</span></td>
-                <td>${project.date}</td>
+                <td>${project.date ?? '미확인'}</td>
             `;
             tableBody.appendChild(row);
         });
