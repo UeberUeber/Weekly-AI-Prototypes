@@ -91,12 +91,14 @@
 
 ## 60. **[게임] 티라노가 온다! (T-Rex Is Coming!)**
 - **URL**: https://ueber.itch.io/trex-is-coming
+- **Apps in Toss URL**: https://tossminiapp.com/s/rf4rDFch
 - **배경**: 티라노에게 쫓기며 핸드카 레버를 번갈아 눌러 도망치는 추격 게임입니다. 연타가 아니라 리듬으로 누르는 행위 자체가 재미가 되는지, 익숙해진 뒤에도 긴장이 남는지 검증했습니다.
 - **기술 스택**: Three.js, Claude, ChatGPT
 - **최초 공개일**: 2026-09-27
 
 ## 59. **[게임] 핀볼 팡팡 (Pinball Pang Pang)**
 - **URL**: https://ueber.itch.io/pinball-pang-pang
+- **Apps in Toss URL**: https://tossminiapp.com/s/DEDhfGSs
 - **배경**: 점수가 오를수록 판 위의 오브젝트와 기믹이 바뀌면서 게임의 메카닉 자체가 달라지는, 새로운 형태의 핀볼을 실험한 게임입니다.
 - **기술 스택**: Three.js, Claude, ChatGPT
 - **최초 공개일**: 2026-09-26
@@ -308,6 +310,7 @@
 
 ## 28. **[서비스] I Ching: Your Path Through the Book of Changes**
 - **URL**: https://i-ching-i.web.app/
+- **Apps in Toss URL**: https://tossminiapp.com/s/ZD8Udpgs
 - **배경**: 고대 주역을 기반으로 한 점술 서비스입니다. 고전 주역의 원리를 활용해 현재 순간의 흐름과 앞으로 나아갈 방향을 해석합니다.
 - **기술 스택**: Claude Code, Firebase
 - **공개일**: 2026-02-04
