@@ -91,12 +91,14 @@
 
 ## 60. **[GAME] T-Rex Is Coming!**
 - **URL**: https://ueber.itch.io/trex-is-coming
+- **Apps in Toss URL**: https://tossminiapp.com/s/rf4rDFch
 - **Background**: A chase game where you escape a T-Rex by pumping a handcar's levers in turn. It tests whether pressing in rhythm, rather than mashing, can be fun in itself, and whether the tension holds once you get used to it.
 - **Tech Stack**: Three.js, Claude, ChatGPT
 - **First Public Release**: 2026-09-27
 
 ## 59. **[GAME] Pinball Pang Pang**
 - **URL**: https://ueber.itch.io/pinball-pang-pang
+- **Apps in Toss URL**: https://tossminiapp.com/s/DEDhfGSs
 - **Background**: An experiment in a new kind of pinball where the objects and gimmicks on the table, and with them the game's mechanics, change as your score rises.
 - **Tech Stack**: Three.js, Claude, ChatGPT
 - **First Public Release**: 2026-09-26
@@ -308,6 +310,7 @@
 
 ## 28. **[SERVICE] I Ching: Your Path Through the Book of Changes**
 - **URL**: https://i-ching-i.web.app/
+- **Apps in Toss URL**: https://tossminiapp.com/s/ZD8Udpgs
 - **Background**: A divination service based on the ancient I Ching. Interprets the flow of the current moment and the direction ahead using classical I Ching principles.
 - **Tech Stack**: Claude Code, Firebase
 - **Release Date**: 2026-02-04
